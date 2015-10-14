@@ -1,0 +1,4 @@
+AuthName "Rien d'interessant dans le coin..."
+AuthType Basic
+AuthUserFile "/var/www/vhosts/tools4origins.fr.nf/httpdocs/stats/.htpasswd"
+Require valid-user

@@ -1,0 +1,3227 @@
+Tools4Origins/T4O/80.824/FHIR
+Tools4Origins/T4O/80.824/FHIR
+Tools4Origins/T4O/80.824/FHIR
+Tools4Origins/T4O/80.824/FHIR
+NostalGeek/DAn/460.388/RQKT
+- Coco -/Forces Liberatrices Intergalactique/331.787/LFLU
+raikiri/Phenix Reborn/50.017/ZPZC
+Angra Mainyu/Forces Liberatrices Intergalactique/1.715.744/MWHE
+Dark R3v4n/Forces Liberatrices Intergalactique/28.570/RQBI
+Dark R3v4n/Forces Liberatrices Intergalactique/1.489.305/ZXJG
+Dark R3v4n/Forces Liberatrices Intergalactique/31.275.413/EHQZ
+raikiri/Phenix Reborn/2.317/MZLP
+NostalGeek/DAn/545.971/CERM
+Scylla/Alliance Stellaire Astrienne/112.677/GDDD
+-Dragon-/Alliance Fornoxienne/294/GRFU
+Angra Mainyu/Forces Liberatrices Intergalactique/174.509/HMTO
+- Coco -/Forces Liberatrices Intergalactique/350.594/OBQR
+menfiche/Shaytans/96.317/ZURK
+DaRkZ/La Releve/86.682/VMHP
+denizbang/Alliance Fornoxienne/21.542/QQUJ
+DaRkZ/La Releve/90.940/VGPU
+denizbang/Alliance Fornoxienne/21.542/DVJR
+Auregorn/Forces Liberatrices Intergalactique/19.925/ATLW
+thomas44/Terra Fornoxia/5.249/WBRP
+thomas44/Terra Fornoxia/5.249/BFIF
+-madaRa-/The Order Of Lights/432.997/ZXDV
+thomas44/Terra Fornoxia/8.928/JSCA
+thomas44/Terra Fornoxia/755/IXUX
+-madaRa-/The Order Of Lights/267.147/YCJE
+volktair/La Releve/125.058/MFIL
+Phantom//8.844/YWSK
+thomas44/Terra Fornoxia/12.137/NPEI
+Thorrdu/Elementals dragons warriors/905.243/PTIA
+lilith/La Releve/303.431/YDUE
+galadriel/Le chemin vers l illumination/478.513/OTJV
+Landry/-Union Sacree-/294.241/YJRW
+galadriel/Le chemin vers l illumination/690.122/NKTV
+Valinius/Oris Of Celesty/257.479/LYWT
+GARIK//1.261.827/NWWZ
+GARIK//1.261.827/SBTR
+Papy91/Resistance Ancienne/105.023/ABHF
+Thorus/Othalla/77.893/NUCD
+thomas44/Terra Fornoxia/3.829/LEAI
+Idril thorn/Othalla/1.764.315/ATHZ
+menfiche/Shaytans/80.912/PKTZ
+Mouette//2.263/LZKF
+menfiche/Shaytans/107.058/DWND
+laperuche/Union Sacree W 1/13.836/EBAG
+GARIK//129.722/PWQD
+notsoalive/VieuZboubTeAm/6.379/RQVH
+Auregorn/Forces Liberatrices Intergalactique/28.061/HQWA
+GARIK//949.032/VTBX
+Apollo XIII/Forces Liberatrices Intergalactique/196.523/JYQM
+Angra Mainyu/Alliance des 4 Races/1.271.943/KGKZ
+Emesics//49.258/PJCH
+Emesics//94.621/TIAG
+laperuche/Union Sacree W 1/8.930/YEQN
+GARIK//3.473.460/NQBL
+lilith/La Releve/84.598/UUCC
+lilith/La Releve/84.598/YYUW
+Scylla/Resistance Ancienne/585.767/DYMT
+Auregorn/Forces Liberatrices Intergalactique/52.488/QEGY
+-zohac-/Shaytans/17.846/SDLN
+Auregorn/Forces Liberatrices Intergalactique/253.319/VKPT
+thomas44/Terra Fornoxia/3.392/WPMG
+Papy91/Resistance Ancienne/40.086/CCJU
+thomas44/Terra Fornoxia/4.948/KKPT
+--lucifer--/Terra Fornoxia/2.582/YSUV
+--lucifer--/Terra Fornoxia/3.321/WUXY
+WhiteTiger/Forces Liberatrices Intergalactique/14.915/YYQN
+WhiteTiger/Forces Liberatrices Intergalactique/14.915/HSYF
+WhiteTiger/Forces Liberatrices Intergalactique/85.763/NQSX
+volktair/Forces Liberatrices Intergalactique/667.804/BGNT
+JuSt/Forces Liberatrices Intergalactique/504.371/JCDT
+Valinius/Oris Of Celesty/1.116.039/YOMS
+Furygan/Orilla/809.731/XIBE
+JuSt/Forces Liberatrices Intergalactique/1.471.518/BTMI
+guiii/The Stargate Alliance/3.124/OGZA
+lilith/La Releve/1.095.299/TLBT
+GARIK//1.666.861/BDAR
+Auregorn/Forces Liberatrices Intergalactique/90.899/ZAGY
+DASSIUS/-GhoSt RiDeRs-/398.195/XOON
+GARIK//1.700.495/KDSL
+freelancer/La Releve/39.021/JIBR
+volktair/Forces Liberatrices Intergalactique/196.825/EPEZ
+Apollo XIII/Forces Liberatrices Intergalactique/364.276/WCKG
+lancien07/ascension/108.572/TWPD
+JuSt/Forces Liberatrices Intergalactique/505.614/ERWX
+guiii/The Stargate Alliance/1.018/DEUE
+GARIK//1.069.222/YRDY
+--lucifer--/Terra Fornoxia/14.359/VQVE
+-zohac-/Shaytans/52.252/LQGX
+Alucard/Alliance des 4 Races/954.076/BTFB
+lilith/La Releve/933.625/GQCZ
+Alucard/Alliance des 4 Races/1.059.246/XLAY
+--lucifer--/Terra Fornoxia/2.749/ZRGW
+Dark R3v4n/Forces Liberatrices Intergalactique/146.620/GBHD
+raikiri/Phenix Reborn/33.244/CTSU
+Mouette/Terra Fornoxia/1.721/GGSY
+Dark R3v4n/Forces Liberatrices Intergalactique/146.620/CRCB
+--lucifer--/Terra Fornoxia/27.717/WPRH
+//0/MEWK
+//0/XUKT
+Barbe//77.638/FZLG
+Barbe//82.960/NOSY
+Natsu/Les Titans/1.127.663/CBDP
+Apollo XIII/Forces Liberatrices Intergalactique/85.239/CANX
+Natsu/Les Titans/1.408.487/BIEE
+Natsu/Les Titans/1.756.184/NOGA
+Natsu/Les Titans/3.255.041/SEJG
+Natsu/Les Titans/1.461.517/BOJO
+Natsu/Les Titans/2.386.014/FNMU
+Dark R3v4n/Forces Liberatrices Intergalactique/137.958/VXMG
+Dark R3v4n/Forces Liberatrices Intergalactique/150.160/DWWD
+Natsu/Les Titans/4.944.791/FXKF
+Dark R3v4n/Forces Liberatrices Intergalactique/172.444/NEAP
+menfiche/Shaytans/52.553/RTJS
+Mouette/Terra Fornoxia/991/JTXH
+Natsu/Les Titans/1.424.486/XDHS
+Papy91/Resistance Ancienne/25.026/HFCW
+D4rk R3v4n/Forces Liberatrices Intergalactique/671.306/WAIS
+Dark R3v4n/Forces Liberatrices Intergalactique/174.551/RFOA
+Auregorn/Forces Liberatrices Intergalactique/123.499/ONOJ
+-Zohac-/-GhoSt RiDeRs-/589.515/XQFI
+Barbe//84.964/BYNO
+Hiruma/Les Titans/374.953/GDWV
+-Zohac-/-GhoSt RiDeRs-/783.534/HPMU
+Hiruma/Les Titans/392.798/NCIQ
+Hiruma/Les Titans/488.554/QSFD
+//0/LORG
+La Brute//2.960/AHBP
+lancien07/ascension/171.525/LYWE
+menfiche/Shaytans/226.121/TTKA
+Corran Horn/La Releve/1.108/SOBJ
+Sar Chaya/Federation Des Barbares Alteranes/463/CBFW
+Hiruma/Les Titans/487.370/RKKK
+Hiruma/Les Titans/1.021.107/VGEN
+Barbe//2.089.215/UDIN
+Barbe//2.089.215/FMER
+Dark R3v4n/Forces Liberatrices Intergalactique/144.724/RLMQ
+Lazy//2.164/HAEP
+Lazy//3.453/INON
+Kratos/La Releve/9.306/MOCV
+Kratos/La Releve/63.947/DZTM
+Lazy//5.512/ZQOM
+Lazy//4.240/VJVI
+Lazy//5.795/IMNI
+Lazy//9.754/ADDR
+Lazy//12.502/EOGL
+La Brute//11.428/CCRL
+Dark R3v4n/Forces Liberatrices Intergalactique/156.076/RKVP
+Barbe//665.434/PDEG
+Hiruma/Les Titans/104.024/MRMN
+c-vide/Shaytans/7.218/EYAV
+--lucifer--/Terra Fornoxia/2.262/YDPC
+--lucifer--/Terra Fornoxia/6.876/DPDC
+c-vide/Shaytans/8.979/GEHT
+-JuStGhoSt-/-GhoSt RiDeRs-/37.887/KZVT
+Corran Horn/La Releve/3.110/OMNA
+bamor/Alliance Stellaire Astrienne/1.092/LEBP
+freelancer//91.089/ZJFI
+Dark R3v4n/Forces Liberatrices Intergalactique/188.017/NHWI
+DASSIUS/-GhoSt RiDeRs-/71.272/SMWG
+renedelaq/Alliance des 4 Races/410.883/IDKJ
+-Odin-/0riis Mini raideur/6.406/QLUH
+Auregorn/Forces Liberatrices Intergalactique/168.665/DSFR
+GARIK//478.650/AFBM
+DASSIUS/-GhoSt RiDeRs-/153.236/EQAJ
+miglimik/Alliance Fornoxienne/74.103/DMCX
+miglimik/Alliance Fornoxienne/57.307/AFMJ
+DASSIUS/-GhoSt RiDeRs-/114.091/ZBUC
+GARIK//415.489/RFWT
+--lucifer--/Terra Fornoxia/19.294/YQSX
+Thorus/Othalla/367.533/ZRDN
+Thorus/Othalla/563.704/GWKV
+-JuStGhoSt-/-GhoSt RiDeRs-/489.913/YDGN
+D4rk R3v4n/Forces Liberatrices Intergalactique/1.412.858/YYDG
+D4rk R3v4n/Forces Liberatrices Intergalactique/1.631.180/WZND
+D4rk R3v4n/Forces Liberatrices Intergalactique/2.034.737/KZYZ
+D4rk R3v4n/Forces Liberatrices Intergalactique/2.201.232/GMLS
+D4rk R3v4n/Forces Liberatrices Intergalactique/11.902.879/XITF
+D4rk R3v4n/Forces Liberatrices Intergalactique/18.213.712/CXMC
+Dark R3v4n/Forces Liberatrices Intergalactique/284.544/XSYY
+GARIK//1.399.889/ADGJ
+--lucifer--/Terra Fornoxia/6.694/GDGE
+Thorus/Othalla/146.445/AOGH
+Thorus/Othalla/163.265/WIVP
+Thorus/Othalla/192.458/TCWH
+Thorus/Othalla/207.269/YENY
+Hiruma/Les Titans/188.808/FRHU
+freelancer/COOLassassin/659.567/NXKE
+--lucifer--/Terra Fornoxia/67.617/BVHY
+freelancer/COOLassassin/221.528/IOKW
+GARIK//1.279.070/OWRN
+freelancer/COOLassassin/954.614/FOYR
+-tofom76-//497.390/XSXF
+La Brute//5.851/ZMVI
+Mouette/Terra Fornoxia/8.505/TDJJ
+Amano Ginji/Les Titans/276.259/UQXT
+skywalker28/Alliance Stellaire Astrienne/59.470/TSBA
+-tofom76-//1.670.077/XCAA
+La Brute//9.360/TPIG
+GARIK//207.216/UJBE
+GARIK//207.216/DBMY
+-tofom76-//722.953/IESO
+GARIK//215.716/AMQC
+-tofom76-//1.099.592/GAEE
+ange16/COOL /79.387/QUKV
+Aizen/Born to Kill/27/RZMT
+Aizen/Born to Kill/118/EOVE
+Aizen/Born to Kill/184/KXPY
+Landry/-Union Sacree-/644.780/RVLV
+Thorus/Othalla/280.302/BITE
+Mr-Bushido/-GhoSt RiDeRs-/7/KYJF
+Thorus/Othalla/249.302/CGDH
+Thorus/Othalla/1.062.406/MHPS
+bamor/Alliance Stellaire Astrienne/2.630/SZDQ
+GARIK//699.624/RDTN
+GARIK//880.274/WDXV
+Barbe//78.544/XKWU
+skywalker28/Alliance Stellaire Astrienne/74.974/YZDM
+-tofom76-//1.123.717/JMWV
+-CaTaCoMbE-//1.644.842/YBAU
+-CaTaCoMbE-//1.690.410/JOFL
+Thorrdu/Elementals dragons warriors/634.777/KULH
+-tofom76-//1.498.026/ZTXZ
+-tofom76-//1.498.026/UEHA
+-CaTaCoMbE-//1.459.339/KWCC
+Barbe//89.292/DNEE
+GARIK//997.645/RQOE
+-- flyers --/Orilla/413.199/UDVR
+Thorus/Othalla/321.601/NTKO
+-- flyers --/Orilla/480.262/LAJH
+Thorus/Othalla/299.896/KWAU
+Thorus/Othalla/1.104.881/WYBG
+-CaTaCoMbE-//243.835/UMZB
+Landry/-Union Sacree-/452.412/CZVJ
+GARIK//224.239/IZUQ
+Bellone/-GhoSt RiDeRs-/3/BQVR
+Thorus/Othalla/1.108.225/ALMT
+GARIK//460.459/LMRX
+ASJB001/Empire Egyptien/46.471/RZBN
+BanSidh/-GhoSt RiDeRs-/3/HVJO
+alex kovalev/Union Libre des Derniers Noobs/8.272/GNIG
+Apollo XIII/Forces Liberatrices Intergalactique/673.320/EHZC
+Apollo XIII/Forces Liberatrices Intergalactique/715.386/UXCN
+leel/Othalla/53.814/UHMA
+skywalker28/Alliance Stellaire Astrienne/218.242/VLEJ
+-zohac-/-GhoSt RiDeRs-/16/AEVX
+Apollo XIII/Forces Liberatrices Intergalactique/77.068/XRVM
+skywalker28/Alliance Stellaire Astrienne/228.739/KXER
+leel/Othalla/354.636/IAIE
+GARIK//809.931/DLVX
+skywalker28/Alliance Stellaire Astrienne/211.708/UOUY
+GARIK//1.873.510/MRRA
+GARIK//2.553.078/XFZD
+Apollo XIII/Forces Liberatrices Intergalactique/77.068/LJWO
+GARIK//1.099.418/FEYL
+DeTonaTion/-GhoSt RiDeRs-/6/EIRH
+Bad Gones/Resistance Ancienne/279.913/PMYU
+GARIK//933.442/FFMI
+bamor/Alliance Stellaire Astrienne/3.624/MGTU
+GARIK//1.202.621/MPYV
+pleko/Orilla/9.177/SADC
+La Brute//38.271/GUZZ
+-Share-/Shaytans/402.597/CIAD
+BanSidh/-GhoSt RiDeRs-/25/MVFN
+BanSidh/-GhoSt RiDeRs-/32/IOIQ
+miglimik/Alliance Fornoxienne/57.491/IOQI
+miglimik/Alliance Fornoxienne/50.094/LTNG
+miglimik/Alliance Fornoxienne/175.825/BWYB
+Amano Ginji/Les Titans/243.788/OHNL
+BanSidh/-GhoSt RiDeRs-/143/GMMS
+freelancer/COOLassassin/174.500/GNXH
+Valinius/Oris Of Celesty/2.336.883/ZDFS
+BanSidh/-GhoSt RiDeRs-/163/ENYN
+vulcanis/0riis Mini raideur/153.551/MCDU
+Amano Ginji/Les Titans/532.574/EVEV
+vulcanis/0riis Mini raideur/167.405/INAX
+Amano Ginji/Les Titans/754.947/FAIT
+vulcanis/0riis Mini raideur/167.405/XGXS
+Valinius/Oris Of Celesty/2.890.401/ATMG
+Amano Ginji/Les Titans/1.305.027/ZLAE
+Le Serbe/Etoile de Pandore/4.524/JMKQ
+- -MST- -/Terra Fornoxia/12.047/GGJE
+- -MST- -/Terra Fornoxia/27.729/PAXJ
+MetaloOfFire/Apprentices Of Lights/522.198/WYNR
+Amano Ginji/Les Titans/392.810/XDRB
+//0/EADD
+//0/VOAE
+menfiche/Shaytans/141.551/RILR
+leel/Othalla/1.361.639/OSNB
+Darkredos/Born to Kill/5.950/VRPE
+Amano Ginji/Les Titans/539.463/TGQT
+Amano Ginji/Les Titans/632.681/ETEG
+Amano Ginji/Les Titans/757.248/MFCS
+Amano Ginji/Les Titans/757.248/OOTL
+Amano Ginji/Les Titans/871.999/UAZK
+Amano Ginji/Les Titans/1.220.849/JEME
+freelancer/COOLassassin/21.681/BTGK
+galadriel/L illumination finale /95.531/GSJP
+BanSidh/-GhoSt RiDeRs-/332/HWRG
+BanSidh/-GhoSt RiDeRs-/103/NUPV
+- -MST- -/Terra Fornoxia/81.528/GRYR
+flash44/L illumination finale /299.107/LXNG
+BanSidh/-GhoSt RiDeRs-/126/SFGH
+freelancer/COOLassassin/41.182/CLCI
+freelancer/COOLassassin/46.717/WGFB
+JuStiCe/-GhoSt RiDeRs-/3/CTBE
+Le Serbe//129.856/GMEJ
+Jason72/ATTM ultimate Promotion/7.486/TCCQ
+SkyRay/Space Wolves DeStroyeR/150.260/GRMX
+Red Bull//735.176/ZNAB
+- -MST- -/Terra Fornoxia/80.967/LHPD
+guiii/The Stargate Alliance/59/LMZI
+menfiche/Shaytans/317.566/IRDO
+Darkredos/Born to Kill/2.478/STBS
+WhiteTiger/Forces Liberatrices Intergalactique/24.009/CSAK
+Dark R3v4n/Forces Liberatrices Intergalactique/170.865/FWUF
+Auregorn/La Releve/31.039/KFMC
+//0/MGTE
+BanSidh/-GhoSt RiDeRs-/221/WKEW
+Claymore/Forces Liberatrices Intergalactique/2.834.433/XSSL
+BanSidh/-GhoSt RiDeRs-/126/NMXX
+nico62138/Born To Kill Wing/1.752/CKZS
+Amano Ginji/Les Titans/1.160.160/GODO
+- -MST- -/Terra Fornoxia/7.908/INXR
+Amano Ginji/Les Titans/395.116/NLGI
+GARIK//244.785/WFWW
+Dark73/les chronos numbers/280.708/FUUV
+Jason72/ATTM ultimate Promotion/13.040/FMYB
+Darkredos/Born to Kill/7.526/NQNU
+BanSidh/-GhoSt RiDeRs-/219/FXXS
+WhiteTiger/Forces Liberatrices Intergalactique/10.591/BUCN
+WhiteTiger/Forces Liberatrices Intergalactique/18.477/PZNE
+Dark73/les chronos numbers/411.141/VBXT
+Le Serbe/Pandore Corporation/6.409/EYPZ
+La Brute//30.104/XSXF
+WhiteTiger/Forces Liberatrices Intergalactique/42.510/OLQD
+WhiteTiger/Forces Liberatrices Intergalactique/27.564/GUTV
+WhiteTiger/Forces Liberatrices Intergalactique/28.174/UITM
+-Share-/Shaytans/309.284/JQSE
+Jason72/ATTM ultimate Promotion/40.290/UVCH
+DeTonaTion//5.719.092/PZYD
+DeTonaTion//8.019.189/EFRP
+DeTonaTion//1.627.326/MJVA
+freelancer/COOLassassin/129.447/UDPL
+black angel/La Releve/32.749/SNBH
+leel/Othalla/784.845/LYFB
+Le Serbe/Universite LGDS/63.597/HLUW
+Amano Ginji/Les Titans/635.426/RXIV
+-zohac-/-GhoSt RiDeRs-/455/GYUS
+nico62138/Born To Kill Wing/1.679/YZEW
+c-vide/Shaytans/12.807/CWNI
+c-vide/Shaytans/115.591/CJWE
+c-vide/Shaytans/342.080/IUTC
+freelancer/COOLassassin/397.062/TQKI
+Le Serbe/Universite LGDS/332.155/HAOJ
+black angel/La Releve/40.076/HIYK
+Twistiti/Invictus/102/AATH
+Asteris/Power-Wing/289.281/QSGI
+renedelaq/Alliance des 4 Races/1.451.607/DPIN
+Asteris/Power-Wing/130.907/ADXV
+Rorschach/Orilla/107.939/SVRX
+Rorschach/Orilla/104.823/OURS
+freelancer/COOLassassin/185.109/OEZS
+DeTonaTion//2.453.176/NSPD
+Le Serbe/Pandore Corporation/321/PVSQ
+Le Serbe/Pandore Corporation/340/UCBI
+Darkredos/Born to Kill/1.521/LWES
+Darkredos/Born to Kill/1.521/RHXZ
+Minotaur/ATTM ultimate Promotion/134/GBQE
+Minotaur/ATTM ultimate Promotion/134/FPDA
+Darkredos/Born to Kill/9.789/GXDW
+helfaust/Want A New Team/1.040/MNPN
+helfaust/Want A New Team/61/EJID
+helfaust/Want A New Team/56/ESRB
+helfaust/Want A New Team/59/PWQW
+Darkredos/Born to Kill/4.259/CBFW
+nico62138/Born To Kill Wing/12.561/GCDP
+nico62138/Born To Kill Wing/11.446/WTDA
+Darkredos/Born to Kill/4.390/FUMH
+Asteris/Power-Wing/14.755/NIQS
+leel/Othalla/1.480.704/IKIJ
+- DRAKEN -//156.181/CVNT
+helfaust/Want A New Team/106/ZZUW
+Dark R3v4n/Forces Liberatrices Intergalactique/508.031/NLMH
+dark angel/Shaytans/408.689/PSJK
+Le Serbe/Pandore Corporation/3.209/FFJG
+BabaYaga//1.335.848/SYUU
+zavata/Team-Rocket/5.220/SSUH
+Berru//16.679/SQCZ
+Darkredos/Born to Kill/2.900/PZFO
+volktair/Forces Liberatrices Intergalactique/23.472/JTWW
+Dark73/Les Pirates d Ida/162.782/EYIR
+Asteris/Power-Wing/257.417/JPBH
+Jason72/ATTM ultimate Promotion/36.168/CNJD
+Twistiti/Invictus/87/PTMI
+Rorschach/Orilla/378.725/HXBF
+black angel/La Releve/3.368/MNPD
+Rorschach/Orilla/362.143/XWWM
+BabaYaga//2.894.227/IXHI
+Dark73/Les Pirates d Ida/221.061/HACS
+Rorschach/Orilla/432.735/SBKI
+-ARKANOR-/Phenix Reborn/19.380/CQPL
+Rorschach/Orilla/441.758/RBWK
+Dark73/Les Pirates d Ida/252.916/IJAF
+- SkyNeT -/Alliance Fornoxienne/130.367/XYEA
+Dark R3v4n/Forces Liberatrices Intergalactique/33.848/ESFN
+Dark R3v4n/Forces Liberatrices Intergalactique/33.848/AXKB
+Dark R3v4n/Forces Liberatrices Intergalactique/131.676/TDMS
+SkyRay/Space Wolves DeStroyeR/12.484/JMCX
+Le Serbe/Pandore Corporation/850/TRVW
+Darkredos/Born to Kill/842/GUVA
+- DRAKEN -/Space Wolves DeStroyeR/2.690.886/INEO
+Le Serbe/Pandore Corporation/178/RDBL
+SkyRay/Space Wolves DeStroyeR/791.125/PJSN
+Dark73/Les Pirates d Ida/57.656/FJYH
+- -MST- -/Terra Fornoxia/9.245/IRRN
+Dark73/-akatsuki-/213.103/RJNT
+Dark73/-akatsuki-/644.961/MQXG
+menfiche/Shaytans/178.191/LEXA
+Dark73/-akatsuki-/301.266/DTQY
+Alucard/Alliance des 4 Races/1.174.150/DOXP
+Dark73/-akatsuki-/296.042/ZWAQ
+leel/Othalla/74.195/WCBE
+Alucard/Alliance des 4 Races/1.718.868/YOYK
+leel/Othalla/114.305/XTZV
+WhiteTiger/Forces Liberatrices Intergalactique/49.203/YTDR
+WhiteTiger/Forces Liberatrices Intergalactique/49.203/ZHPV
+Le Serbe/Pandore Corporation/8.974/JSBA
+Le Serbe/Pandore Corporation/9.040/GWZT
+- -MST- -/Terra Fornoxia/33.861/CVUV
+//0/IHSK
+Dark73/-akatsuki-/487.662/UPET
+Red Bull//1.317.019/QRET
+-El Nino-/-Akatsuki-/181.545/LRYN
+leel/Othalla/1.603.974/KJWS
+Le Serbe/Universite LGDS/293.812/HFMK
+Darkredos/Born to Kill/6.489/JVFI
+black angel/La Releve/5.324/IECZ
+Mirvin/Shaytans/220.931/XWXP
+Darkredos/Resurrection/4.227/HOGJ
+nico62138/Resurrection/7.478/BPGK
+-Kal-El-/Resurrection/5.636/JOGX
+lilith/La Releve/73.177/OUPZ
+Zampakuto/LegendeReborn/1.437/LHAP
+Alucard/Alliance des 4 Races/1.244.127/ENDU
+Thorus/Othalla/168.289/FMZM
+Darkredos/Resurrection/23.955/UBJT
+zacki/Akatsuki Revenge/210/VJYS
+Commandeur/Resurrection/669/SVHI
+Alucard/Alliance des 4 Races/1.693.839/ODVL
+- TeNebRe -/Alliance Fornoxienne/21.611/GAXB
+Mirvin/Shaytans/193.576/SHAC
+menfiche/Shaytans/328.435/XRIA
+Darkredos/Resurrection/38.921/XZEF
+WhiteTiger/Forces Liberatrices Intergalactique/19.772/ANWD
+Jason72/Valhalla/490.520/KUJS
+freelancer/COOLassassin/6.323/UHPR
+zacki/Unite Delta 57/30.628/BZAJ
+WhiteTiger/Forces Liberatrices Intergalactique/12.314/BSPJ
+Emesics//359.646/OBUN
+Frank-Castle/Team-Rocket/21.496/BRRG
+Superman/Les Titans/1.071.616/PNET
+Darkredos/Resurrection/29.465/REQE
+black angel/La Releve/8.083/HFFN
+helfaust/-GhoSt RiDeRs-/283/WDBN
+- DRAKEN -/Space Wolves DeStroyeR/772.975/BGOV
+FEL1NE/COOL /18.626/GTAB
+Darkredos/Resurrection/10.243/TVRP
+black angel/La Releve/28.183/SWTV
+miglimik/Alliance Fornoxienne/38.018/AFYG
+miglimik/Alliance Fornoxienne/38.018/XHKC
+Twistiti/Invictus/645/ILEB
+KiwiKiller/La Croisade des Pommes/546.831/QEWL
+FIFI/COOL /15.481/DGBV
+GARIK//548.583/AWFA
+mickael/Orilla/32.950/PPDU
+-eXpeRienCe-/The RuSh Team/1.213.806/VSKM
+freelancer/COOLassassin/652.724/DIPD
+Superman/Les Titans/1.037.515/ODVT
+freelancer/COOLassassin/744.364/IPAV
+Dark73/-akatsuki-/180.285/LOYI
+Amano Ginji/Les Titans/870.325/WKUU
+Amano Ginji/Les Titans/953.358/EWOL
+Amano Ginji/Les Titans/1.347.420/FOAM
+Amano Ginji/Les Titans/1.494.422/KRXV
+-crazy-/The RuSh Team/129.560/VXTN
+Amano Ginji/Les Titans/1.850.823/LSUD
+Amano Ginji/Les Titans/1.107.195/DADT
+Amano Ginji/Les Titans/1.508.582/FHSZ
+Amano Ginji/Les Titans/1.476.517/ELRE
+Jason72/Valhalla/28.202/OMOR
+- SkyNeT -/Alliance Fornoxienne/141.437/OVVO
+- SkyNeT -/Alliance Fornoxienne/1.092/EJEB
+-final-/Ultime Ascension/939.153/AZJP
+-final-//1.951.374/SLRB
+-final-//106.063/NRPT
+-final-//166.181/REHF
+-final-//384.684/MWFI
+-final-//43.332/FSSK
+FIFI/COOL /113.328/PKKN
+FIFI/COOL /136.879/YPOP
+FIFI/COOL /7.409/WPQO
+-final-//155.303/NWUO
+sniperkevin/MARIO BROS/132.476/VCRU
+FIFI/COOL /7.921/BTZO
+sniperkevin/MARIO BROS/132.476/UAPP
+Dark R3v4n/Forces Liberatrices Intergalactique/214.998/APAF
+nell1810/The RiiDeRs/171.881/ZVXN
+vulcanis/0riis Mini raideur/1.071.644/JQAJ
+Dark R3v4n/Forces Liberatrices Intergalactique/260.167/SQDM
+Dark R3v4n/Forces Liberatrices Intergalactique/305.990/JDKM
+Dark R3v4n/Forces Liberatrices Intergalactique/1.002.663/YVMJ
+Dark R3v4n/Forces Liberatrices Intergalactique/1.352.982/CNNU
+-crazy-/Skulls/215.702/YDEF
+mickael/Orilla/23.052/FCQM
+BadScyller/Resistance Ancienne/10.108/XHYJ
+Jason72/Valhalla/131.649/RAIV
+Dark73/-akatsuki-/147.760/BXCL
+Dark73/-akatsuki-/144.133/LIKB
+Jason72/Valhalla/48.418/UBBK
+Dark73/-akatsuki-/72.503/VRKC
+mickael/Orilla/40.086/EIUK
+-eXpeRienCe-/Skulls/1.226.367/URQJ
+-eXpeRienCe-/Skulls/1.226.367/GMRP
+nell1810/The RiiDeRs/102.700/MHZL
+FIFI/COOL /76.961/LUNM
+Amano Ginji/Les Titans/734.435/JLNQ
+FIFI/COOL /79.424/EOUG
+Amano Ginji/Les Titans/856.450/XZGK
+Jason72/Valhalla/51.433/STQP
+Jason72/Valhalla/30.688/BZKN
+galadriel/L illumination finale /528.248/LQBZ
+black angel/La Releve/1.774/USWB
+miglimik/Alliance Fornoxienne/5.702/UBSK
+miglimik/Alliance Fornoxienne/47.735/CNRR
+- baz -/Alliance Stellaire Astrienne/704.140/QXCB
+black angel/La Releve/46.552/EYUL
+Frank-Castle/Team-Rocket/20.445/VQKR
+Dark73/-akatsuki-/190.243/WXRI
+Le Serbe/Skulls/178.695/CNMF
+Thorus/Othalla/68.295/VTZV
+- SkyNeT -/Alliance Fornoxienne/34.304/WFPU
+Thorus/Othalla/97.739/WQPP
+Angra Mainyu/Alliance des 4 Races/205.308/AOCO
+black angel/La Releve/6.366/NFLN
+black angel/La Releve/7.100/YGDZ
+MustangP51/The RiiDeRs/650.757/ZWSH
+lancien07/ascension/43.907/FRVH
+FEL1NE/Power-Team/46.832/KKVH
+lancien07/ascension/44.941/UAVX
+FEL1NE/Power-Team/46.832/CGKR
+FEL1NE/Power-Team/46.832/XZPA
+volktair/Forces Liberatrices Intergalactique/642.347/CGOE
+FEL1NE/Power-Team/121.069/XABN
+-YOSHI-/MARIO BROS/370.964/KVUI
+FEL1NE/Power-Team/68.353/GKKC
+- baz -/Alliance Stellaire Astrienne/91.137/OBDV
+black angel/La Releve/4.127/BYGY
+Frank-Castle/Team-Rocket/50.202/QEIG
+FEL1NE/Power-Team/79.570/LSBX
+black angel/La Releve/6.782/MHAV
+black angel/La Releve/12.049/SYVI
+black angel/La Releve/12.049/YTMZ
+Darkredos/Resurrection/33.183/WWDY
+Rorschach/Orilla/375.245/EFNG
+Darkredos/Resurrection/39.312/LWFK
+Angra Mainyu/Alliance des 4 Races/81.778/EVRU
+-FireGuard-//394.942/JWPI
+//0/WGEL
+black angel/La Releve/243.400/GOGT
+SESSID/L illumination finale /462.848/YYMD
+Le Serbe/Skulls/516.752/XPVK
+Le Serbe/Skulls/517.383/HYWC
+Angra Mainyu/Alliance des 4 Races/164.149/LMCS
+SESSID/L illumination finale /363.913/BUKS
+- SkyNeT -/Alliance Fornoxienne/4.149/GKVF
+- SkyNeT -/Alliance Fornoxienne/94.114/XRCQ
+Le Serbe/Skulls/678.254/ZLYW
+-YOSHI-/MARIO BROS/171.063/DSXA
+guiii/The Stargate Alliance/726/RWZR
+guiii/The Stargate Alliance/34/HFRB
+nell1810/The RiiDeRs/514.221/HHRC
+guiii/The Stargate Alliance/40.230/CWLA
+belley01/Space Force Union/3.593.041/ULSL
+Angelus/Les Titans/1.589.550/AMEJ
+- baz -/Alliance Stellaire Astrienne/1.230.017/MNES
+Gaulois/Power-Wing/1.840.620/TQIC
+Gaulois/Power-Wing/1.114.498/CWTV
+guiii/The Stargate Alliance/610/YWXT
+Escaflowne/Skulls/947.290/YNDR
+- baz -/Alliance Stellaire Astrienne/824.684/QMWX
+Angra Mainyu/Alliance des 4 Races/492.968/KYUF
+zavata/Team-Rocket/13.970/DWSH
+-El Nino-/-Akatsuki-/2.299.833/RRSJ
+Angra Mainyu/Alliance des 4 Races/4.775.772/PFXW
+Angra Mainyu/Alliance des 4 Races/3.872.832/QJTX
+-Max-/Union Sacree W 4/831.922/XNVM
+Le Serbe/Skulls/204.137/SLZA
+Angra Mainyu/Alliance des 4 Races/549.505/QAXT
+-final-/Ultime Ascension/18.211/VIBR
+Angra Mainyu/Alliance des 4 Races/2.151.736/DPOB
+Bellone/Oris Of Celesty/253.645/SSTA
+Darkredos//20.128/INLA
+guiii/The Stargate Alliance/859/DGVF
+johndela//24.198/SUUU
+SESSID/L illumination finale /331.709/MNLE
+Le Serbe/Skulls/2.053.054/RPGA
+BadScyller/Resistance Ancienne/9.052/OHUS
+BadScyller/Resistance Ancienne/16.738/DHGQ
+BadScyller/Resistance Ancienne/16.056/DJPZ
+Commandeur/Resurrection/6.637/DQAQ
+Commandeur/Resurrection/8.606/EFVR
+SESSID/L illumination finale /331.709/AVVK
+WhiteTiger/Forces Liberatrices Intergalactique/22.118/MPQH
+SESSID/L illumination finale /43.727/SJUF
+SESSID/L illumination finale /43.727/SHZQ
+SESSID/L illumination finale /43.727/CUQW
+SESSID/L illumination finale /43.727/LBZQ
+Darkredos//10.476/JXMK
+Commandeur/Resurrection/14.565/SZTI
+Le Serbe/Pandore Corporation/22.824/HXVC
+//0/MJQR
+//0/XGOW
+Le Serbe/Pandore Corporation/19.135/YGMP
+SAM0URAI/Phenix Reborn/105.491/TUXJ
+Darkredos//27.865/WFWX
+Eastpak/Orilla/56.541/VASC
+Darkredos//27.865/GQCL
+Thorus/Othalla/33.548/DYZX
+tueur2flotte/The Stargate Alliance/80.666/MEYR
+tueur2flotte/The Stargate Alliance/28.358/WMGX
+Commandeur//8.132/VYOY
+Cpt Herlock/Ultime Ascension/235.750/VPFV
+Cpt Herlock/Ultime Ascension/189.729/IVXP
+- baz -/Alliance Stellaire Astrienne/782.175/FRAN
+Amano Ginji/Les Titans/1.336.953/QPST
+Amano Ginji/Les Titans/2.062.570/FXSO
+Amano Ginji/Les Titans/831.053/BCDI
+Commandeur//711/KJBE
+Angra Mainyu/Alliance des 4 Races/68.076/TUXK
+tueur2flotte/The Stargate Alliance/11.018/MAGV
+Le Serbe/Pandore Corporation/55.339/TEAI
+Commandeur//12.373/AGIT
+Le Serbe/Pandore Corporation/38.665/YWRN
+Le Serbe/Pandore Corporation/46.456/KZPE
+MustangP51/The RiiDeRs/96.311/QWMT
+MustangP51/The RiiDeRs/96.311/OKBI
+Angra Mainyu/La Releve/544.873/AQWT
+Eastpak/Orilla/256.051/GLVA
+Eastpak/Orilla/208.567/LVHF
+Eastpak/Orilla/244.677/IIUW
+Eastpak/Orilla/461.999/FRWC
+Eastpak/Orilla/529.958/BRGS
+Eastpak/Orilla/529.958/AVRQ
+Eastpak/Orilla/529.958/XLKL
+Eastpak/Orilla/477.596/NECA
+Eastpak/Orilla/482.238/JSOK
+Eastpak/Orilla/463.964/QUMW
+Eastpak/Orilla/472.173/ILFI
+Eastpak/Orilla/555.889/UWSW
+Eastpak/Orilla/574.030/VTJG
+Eastpak/Orilla/530.332/ETMA
+tueur2flotte/The Stargate Alliance/20.932/VTFD
+MustangP51/The RiiDeRs/401.392/XHRV
+SAM0URAI/Phenix Reborn/263.802/GLZL
+meldart/Elementals dragons warriors/128.203/WFJS
+Thorus/Othalla/116.490/FQJJ
+Thorus/Othalla/125.902/TEIB
+Thorus/Othalla/131.119/XYGA
+Thorus/Othalla/466.994/XNHT
+Apollo XIII/Forces Liberatrices Intergalactique/351.669/GCQP
+MustangP51/The RiiDeRs/401.392/KKDY
+Amano Ginji/Les Titans/772.651/YNHU
+lancien07/ascension/276.897/CQDD
+Aulne//1.474.800/PHZF
+Amano Ginji/Les Titans/772.651/TNVD
+Thorus/Othalla/277.411/AFGR
+Thorus/Othalla/277.411/GCRL
+Thorus/Othalla/330.843/HVSK
+lancien07/ascension/229.660/KQRO
+Aulne//3.492.509/LNIV
+Thorus/Othalla/181.612/WSFB
+Thorus/Othalla/191.713/ETXX
+Thorus/Othalla/223.161/AWIM
+Thorus/Othalla/327.640/MJMH
+Thorus/Othalla/111.185/VTTC
+SAM0URAI/Phenix Reborn/73.208/WFHK
+Commandeur//15.121/ICLB
+Darkredos//22.921/HUSR
+Rorschach/Orilla/203.214/JNKK
+GARIK//4.290.502/YKSY
+Aulne//2.156.063/XIBH
+tueur2flotte/The Stargate Alliance/12.809/SFNO
+Thorus/Othalla/92.785/TISI
+Thorus/Othalla/121.848/WVKI
+//0/TRKU
+tueur2flotte/The Stargate Alliance/99.145/ASCU
+meldart/Elementals dragons warriors/4.995/ZWTJ
+tueur2flotte/The Stargate Alliance/273.004/YPCJ
+MustangP51/The RiiDeRs/470.751/YGUN
+Elia/SWAF/1.084/EDYV
+Elia/Na-vis revenge/33/ODPV
+Elia/La Releve/1.452/DVRR
+Aulne//740.386/DMUX
+Alucard/Alliance des 4 Races/669.586/XBVA
+Aulne//914.533/NGZD
+tueur2flotte/The Stargate Alliance/90.565/MXEP
+nico62138//4.690/LHKZ
+nico62138//4.982/OPMD
+FEL1NE/COOL /109.266/PAGL
+Aulne//1.160.209/HTPX
+Aulne//1.380.035/YAGF
+boolle/Alliance des 4 Races/1.272.305/YXIT
+Elia/La Releve/1.748/FXEB
+Elia/La Releve/31.205/EEQV
+Elia/La Releve/2.219/QFMD
+Rorschach/Orilla/634.196/BDWM
+Elia/La Releve/40.421/PWPH
+GARIK//2.303.924/HAQL
+Alucard/Alliance des 4 Races/1.525.860/XBKO
+galadriel/L illumination finale /73.815/MZHJ
+tueur2flotte/The Stargate Alliance/614.812/ANIL
+GARIK//1.888.887/JEST
+-Share-/Shaytans/502.838/ZLGB
+Eldinf/Pandore Corporation/38.933/DJFK
+-Share-/Shaytans/508.711/WGWM
+Superman/Les Titans/2.221.673/BPRJ
+-Soska-/Les Titans/176.951/EPHX
+-Soska-/Les Titans/190.948/NUGA
+//0/OXNQ
+//0/WOOZ
+-Soska-/Les Titans/215.422/QSXB
+-Soska-/Les Titans/222.631/PRCX
+GARIK//1.167.286/JGQN
+Superman/Les Titans/1.513.640/UJPM
+mickael/Orilla/67.369/CLEF
+mickael/Orilla/16.147/PZVY
+boolle/Alliance des 4 Races/847.916/MZNZ
+OniZukA/eteRnity/3.393.727/WYFJ
+leel/Othalla/568.944/QEYU
+leel/Othalla/1.142.264/JDEE
+OniZukA/eteRnity/3.440.903/BJIW
+FEL1NE/COOL /105.818/JUZW
+mickael/Orilla/643.117/XEFO
+GARIK//1.047.741/IJSX
+MustangP51/The RiiDeRs/44.328/NVHL
+- TeNebRe -/Alliance Fornoxienne/22.973/ZTHO
+Miller/0riis Mini raideur/2.300.936/YAGR
+tueur2flotte/The Stargate Alliance/9.926/PQGI
+Darkredos//49.107/TYYM
+Rorschach/Orilla/6.677/DQXZ
+tueur2flotte/The Stargate Alliance/17.995/VRAI
+guiii/The Stargate Alliance/20.037/YQQH
+guiii/The Stargate Alliance/20.037/BIBP
+Miller/0riis Mini raideur/380.078/FXRH
+Angra Mainyu/Alliance des 4 Races/2.244.446/KEUD
+Cade//27.975/HPIM
+Angra Mainyu/Alliance des 4 Races/2.384.220/EJKW
+Redtanos/The RiiDeRs/29.159/MRBF
+Commandeur//33.203/GRBI
+Commandeur//33.203/ERTE
+-Arkanor-/Phenix Reborn/160.660/CYEV
+Cade//20.652/MRRF
+tueur2flotte/The Stargate Alliance/122.999/LDOK
+GARIK//876.725/CRNF
+- Droopy -//1.372.810/SIJP
+Cade//17.539/YPZO
+Thorus/Othalla/316.670/XLKO
+SAM0URAI/Phenix Reborn/104.379/MMBR
+SAM0URAI/Phenix Reborn/110.427/ZGPN
+SAM0URAI/Phenix Reborn/109.129/CVPD
+godzy//1.279.367/TQVQ
+godzy//1.279.367/FARU
+godzy//1.279.367/PQND
+-Arkanor-/Phenix Reborn/28.259/LVOA
+- DRAKEN -/Space Wolves DeStroyeR/1.196.891/ZPUE
+meldart/Elementals dragons warriors/112.097/KETQ
+lilith/La Releve/146.423/RWLJ
+miglimik/Alliance Fornoxienne/139.461/ZCUP
+zavata/Team-Rockett/2.692/BRUC
+lancien07/ascension/135.905/PCNQ
+GARIK//2.202.054/TOOT
+ASJB001/Union des 2 Geeks/94.775/MEPB
+ASJB001/Union des 2 Geeks/252.542/SFOE
+ASJB001/Union des 2 Geeks/451.106/JIGM
+ASJB001/Union des 2 Geeks/620.422/QSSN
+ASJB001/Union des 2 Geeks/484.434/ABVB
+ASJB001/Union des 2 Geeks/544.618/WRPN
+ASJB001/Union des 2 Geeks/1.287.486/PFTZ
+meldart/Elementals dragons warriors/30.523/NBZY
+lilith/La Releve/6.264.459/YTON
+black angel/La Releve/453/MBBO
+black angel/La Releve/260.947/UFJU
+mickael/Orilla/40.468/VLFD
+FEL1NE/COOL /16.173/BCWZ
+ajp40//21.935/WRXV
+GARIK//1.389.810/HITA
+Thorus/Othalla/67.706/ISJU
+BlueAngel/Orilla/389.197/OBOD
+BlueAngel/Orilla/403.822/ZAPU
+BlueAngel/Orilla/755.881/PDQJ
+BlueAngel/Orilla/287.672/OFHF
+BlueAngel/Orilla/252.968/BVVS
+Commandeur//7.149/NFMT
+Thorrdu/Elementals dragons warriors/179.858/XGVK
+SAM0URAI/Phenix Reborn/34.001/QNOP
+Thorus/Othalla/615.273/EZJQ
+BlueAngel/Orilla/39.745/JDQV
+BlueAngel/Orilla/54.462/AFWH
+BlueAngel/Orilla/60.812/LAYH
+BlueAngel/Orilla/66.895/QWJM
+BlueAngel/Orilla/68.252/KVEB
+BlueAngel/Orilla/72.951/KXEM
+BlueAngel/Orilla/83.066/TSSD
+BlueAngel/Orilla/93.179/PUNA
+BlueAngel/Orilla/115.437/LMAW
+Dark R3v4n/Forces Liberatrices Intergalactique/258.164/UUKF
+Dark R3v4n/Forces Liberatrices Intergalactique/35.025/DWBW
+Darkredos//58.235/DOIK
+FEL1NE/COOL /12.237/JVNB
+SAM0URAI/Phenix Reborn/75.102/DGRG
+- Droopy -//331.784/EPLC
+ihsane//60.880/QZBU
+ihsane//193.872/XRJD
+-El GeNeRaL-/COOL /139.040/VFYX
+SAM0URAI/Phenix Reborn/148.290/UCAU
+FEL1NE/LA COOL /8.340/OXIS
+FEL1NE/LA COOL /11.830/GAJB
+Frank-Castle/Team-Rocket/71.013/YMKM
+Atlann/La Releve/157.158/DYTJ
+FEL1NE/LA COOL /28.362/UVLI
+FEL1NE/LA COOL /49.598/GFGG
+FEL1NE/LA COOL /60.475/JJYU
+black angel/La Releve/10.514/YOIS
+black angel/La Releve/10.514/OZFH
+lancien07/ascension/575.946/CTHZ
+lancien07/ascension/571.017/IWYA
+flash44/L illumination finale /140.662/TEGF
+miglimik/Alliance Fornoxienne/43.573/QMSM
+lancien07/ascension/575.946/ORXW
+flash44/L illumination finale /114.403/FQVL
+freelancer/COOLassassin/1.159.299/KQAI
+-Arkanor-/Phenix Reborn/17.247/NARQ
+flash44/L illumination finale /158.597/PODU
+miglimik/Alliance Fornoxienne/58.200/HHLH
+- DRAKEN -/Space Wolves DeStroyeR/1.048.571/VLVA
+Angra Mainyu//164.317/NUHJ
+FreaKs93/Les Protecteurs Des Anciens/127.262/BHXI
+Angra Mainyu/Alliance des 4 Races/113.558/HRMM
+FEL1NE/LA COOL /2.002/HLYB
+Commandeur//8.002/CYNS
+palladium/Federation Des Barbares Alteranes/93.848/JWQL
+palladium/Federation Des Barbares Alteranes/80.622/TZNK
+Galadan/Forces Liberatrices Intergalactique/1.069.572/LPAV
+SAM0URAI/Phenix Reborn/41.563/EGHA
+SESSID/L illumination finale /842.037/YREG
+nell1810/The RiiDeRs/340.985/JFVI
+nell1810/The RiiDeRs/340.985/EEOW
+BadScyller/Resistance Ancienne/880.796/DEUN
+BadScyller/Resistance Ancienne/702.032/IUTD
+Thorus/Othalla/139.935/IUSP
+galadriel/L illumination finale /33.472/OWSE
+SESSID/L illumination finale /842.037/ZEZY
+Angra Mainyu//164.317/WFNI
+Angra Mainyu//52.367/EPHM
+Commandeur//3.934/KBPM
+adalta/-Union Sacree-/209.460/YTVR
+Thorus/Othalla/139.935/STSX
+Absolom/Elder/34.425/RBFS
+SAM0URAI/Phenix Reborn/65.690/VZCD
+condor in/S W A F/33.628/YKSH
+FEL1NE/LA COOL /565/HXQH
+FEL1NE/LA COOL /342/HBNW
+Absolom/Elder/34.105/ZJBV
+flash44/L illumination finale /249.374/JYCL
+FEL1NE/LA COOL /23.254/HCAS
+- Droopy -//233.691/DNNK
+SESSID/L illumination finale /1.034.366/QGCW
+SESSID/L illumination finale /846.040/ELVE
+ihsane//9.086/VXWU
+flash44/L illumination finale /1.679.375/GAJY
+SESSID/L illumination finale /846.040/BXUV
+flash44/L illumination finale /277.586/UKJJ
+freelancer/COOLassassin/208.322/IBEO
+flash44/L illumination finale /354.438/LOMZ
+Thorus/Othalla/522.637/QEDL
+Thorus/Othalla/522.637/TCVY
+Les Gaulois/Power-Wing/2.672.367/QFBS
+galadriel/L illumination finale /274.788/MLLY
+Commandeur//33.982/NGKQ
+Thorus/Othalla/142.748/HKNX
+Thorus/Othalla/139.962/IOMV
+Commandeur//33.982/BAAC
+WhiteTiger/Forces Liberatrices Intergalactique/169.094/OIBS
+WhiteTiger/Forces Liberatrices Intergalactique/28.506/NSKR
+WhiteTiger/Forces Liberatrices Intergalactique/63.153/IKQE
+FEL1NE//75.400/PVLK
+SAM0URAI/Phenix Reborn/105.842/RJTM
+miglimik/Alliance Fornoxienne/163.900/ZFOQ
+Angra Mainyu//176.559/XFHZ
+Angra Mainyu//4.165.071/FNKG
+Angra Mainyu//176.559/MIQQ
+Angra Mainyu//482.972/RWXA
+zavata/Team-Rockett/4.279/UXJC
+Darkredos//9.003/LDAZ
+meldart/Elementals dragons warriors/51.731/FALS
+meldart/Elementals dragons warriors/53.671/YRIZ
+Thorus/Othalla/244.571/OPAH
+lilith/La Releve/46.917/LCLW
+Thorus/Othalla/276.211/FWPW
+Thorus/Othalla/413.404/XJGD
+meldart/Elementals dragons warriors/54.106/BDIE
+FEL1NE/Forces Liberatrices Intergalactique/10.147/KJRR
+Helios/Phenix Reborn/156.897/TRLH
+SAM0URAI/Phenix Reborn/31.141/XEPK
+Thorus/Othalla/213.613/RSDN
+Thorus/Othalla/297.140/BPGO
+Thorus/Othalla/299.111/TSDD
+lilith/La Releve/120.132/ZURG
+-Soska-/Les Titans/2.951.688/PPNA
+-Soska-/Les Titans/3.420.572/WMER
+-Soska-/Les Titans/356.841/EDUL
+WhiteTiger/Forces Liberatrices Intergalactique/25.313/OHVO
+-Soska-/Les Titans/362.173/XFTD
+Miller/Oris Of Celesty/258.563/IZHQ
+Le Serbe//22.000/UMSI
+lemort/Elementals dragons warriors/9.158.999/RHGP
+lemort/Elementals dragons warriors/9.391.540/WGYG
+lemort/Elementals dragons warriors/8.965.795/OYUR
+FEL1NE//42.284/LJMF
+Korosu/Crow of Suzuran/55/OMKN
+lilith/La Releve/100.624/YWQO
+SarKkas/Elder/22.177/LTNZ
+-Legion-/Terra Fornoxia/49.256/OEZM
+Berru//93.019/LLZL
+lilith/La Releve/34.325/KCPS
+Angra Mainyu//181.748/WUKP
+Idril thorn/Othalla/505.282/AGDB
+palladium/Federation Des Barbares Alteranes/103.616/YGHI
+Frank-Castle/Team-Rocket/20.861/RXPR
+Thorus/Othalla/66.182/ZMML
+palladium/Federation Des Barbares Alteranes/16.792/UVIF
+volktair/Forces Liberatrices Intergalactique/104.461/IGWU
+oligan/ADC wing/113.085/PLOE
+FreaKs93//724.031/IUEL
+-Share-/Shaytans/350.884/FMQC
+FreaKs93//724.031/WGZC
+- Droopy -//751.643/LZMA
+SAM0URAI/Phenix Reborn/37.544/HTLY
+Miller/Oris Of Celesty/553.063/QNKT
+- Droopy -//622.741/OSJG
+volktair/Forces Liberatrices Intergalactique/211.316/PCKI
+volktair/Forces Liberatrices Intergalactique/211.316/TRTG
+Thorus/Othalla/569.858/MZPF
+-Share-/Shaytans/373.341/QBJJ
+FreaKs93//1.192.510/IHBP
+-DeUs-/Forces Liberatrices Intergalactique/982.928/NFXX
+Darkredos//11.230/VMZY
+mickael/Orilla/1.981.694/FYIK
+personne//196/WEOK
+alix45/Shaytans/3.210/XNIM
+Thorus/Othalla/583.854/HGYX
+Thorus/Othalla/583.854/YFKW
+Thorus/Othalla/583.854/GUMB
+zavata/Team-Rockett/61.429/RQYW
+-Soska-/Les Titans/28.439/PVFL
+Elbereth/Power-Team/30.087/NMJE
+Elbereth/Power-Team/50.866/YAIK
+Commandeur/RESISTANCE/50.128/WRNF
+Elbereth/Power-Team/50.866/CWBD
+//0/OGEG
+oligan/ADC wing/4.502/OTHE
+Kiviuq/Alliance Fornoxienne/11.237/DYLK
+-DeUs-/Forces Liberatrices Intergalactique/1.220.513/QSOY
+nico62138//14.636/TJFT
+nico62138//26.021/GXLB
+nico62138//45.069/ZPJH
+nico62138//30.730/QEST
+Scion2Veles//166.534/EMVV
+Commandeur/RESISTANCE/42.119/BEXQ
+rastaman06//166.059/FEPJ
+lilith/La Releve/252.496/GIEP
+SAM0URAI/Phenix Reborn/49.735/BZSU
+palladium/Federation Des Barbares Alteranes/116.018/SKUX
+- Droopy -//740.704/IASW
+-Share-/Shaytans/162.142/CEBX
+black angel/La Releve/81.737/ZKYF
+-Share-/Shaytans/160.256/OAWP
+-Share-/Shaytans/830.781/TGCT
+-Share-/Shaytans/820.519/OUVB
+Darkredos/RESISTANCE/22.809/GJDE
+Elbereth/Power-Team/29.891/DXVA
+Elbereth/Power-Team/29.891/NJTN
+lilith/La Releve/252.496/VSGS
+baby mario/MARIO BROS/240.629/TBKY
+Elbereth/Power-Team/13.400/KADI
+-Legion-/Terra Fornoxia/103.835/DQPS
+-Kratos-/The RiiDeRs/1.324.234/VZTG
+-Kratos-/The RiiDeRs/1.324.234/QMWU
+-Share-/Shaytans/474.042/WRUF
+SAM0URAI/Phenix Reborn/53.394/PWRY
+-Share-/Shaytans/361.267/NZVP
+SAM0URAI/Phenix Reborn/52.966/MAFW
+SAM0URAI/Phenix Reborn/349.814/AOTI
+WhiteTiger/Forces Liberatrices Intergalactique/44.151/OXYN
+Idril thorn/Othalla/264.994/TNQY
+-Soska-/Les Titans/108.905/UXZZ
+-Share-/Shaytans/208.358/ODRD
+-Share-/Shaytans/318.558/VIQL
+lilith/La Releve/432.318/NESD
+lilith/La Releve/448.170/YCVQ
+palladium/Federation Des Barbares Alteranes/14.662/IIHZ
+palladium/Federation Des Barbares Alteranes/14.662/UBKQ
+palladium/Federation Des Barbares Alteranes/14.662/UFJA
+-Soska-/Les Titans/118.518/VYYO
+-DeUs-/Forces Liberatrices Intergalactique/42.853/WTZU
+WhiteTiger/Forces Liberatrices Intergalactique/159.498/HKFN
+WhiteTiger/Forces Liberatrices Intergalactique/159.498/BWVY
+Commandeur/RESISTANCE/32.023/TPWN
+Commandeur/RESISTANCE/133.101/CQPU
+SESSID/L illumination finale /130.799/DRBC
+Thorus/Othalla/163.982/UWEQ
+Horgh/Orilla/163.884/YKHD
+SESSID/L illumination finale /263.739/BDOB
+SESSID/L illumination finale /276.132/BYXP
+Horgh/Orilla/269.711/UEPU
+WhiteTiger/Forces Liberatrices Intergalactique/26.917/OKXO
+WhiteTiger/Forces Liberatrices Intergalactique/26.917/KNPL
+-naruto-/La guilde des scientifiques/354.198/IIAA
+lilith/Forces Liberatrices Intergalactique/78.805/UOQK
+-Soska-/Les Titans/497.750/SLIK
+black angel/La Releve/37.849/CBIE
+flash44/L illumination finale /1.546.849/VJAD
+-DeUs-/Forces Liberatrices Intergalactique/136.160/BNMG
+//0/GCJO
+FEL1NE/Dark Project/123.035/GKQZ
+SAM0URAI//1.992.257/FDVR
+SAM0URAI//2.712.684/WBOM
+- DaRkZ -/La Croisade des Pommes/516.055/TJSN
+Miller/Oris Of Celesty/388.994/ARYW
+Alex Kovalev/Croisade-1936/13.352/SPNI
+lilith/Forces Liberatrices Intergalactique/2.270.849/TWDH
+Thorus/Othalla/76.867/TPAM
+Thorus/Othalla/83.660/KUHY
+Thorus/Othalla/93.463/FFLS
+Thorus/Othalla/97.507/AQIL
+-Share-/Shaytans/115.175/NLYJ
+Thorus/Othalla/97.507/CLKB
+Amiral Nym/-Les Pirates De Pegase-/2.943/TYZH
+Alex Kovalev/Croisade-1936/54.151/JSKZ
+Pentacle/RESISTANCE WINGS/4.126/IYZC
+leel/Othalla/233.285/ENGB
+lancien07/ascension/46.016/ZLHP
+Pentacle/RESISTANCE WINGS/2.478/ZEZT
+Absolom/Elder/19.691/IHNE
+//0/IAQQ
+DeTonaTion/Forces Liberatrices Intergalactique/1.595.640/OFER
+FEL1NE/Dark Project/194.957/HRZS
+FEL1NE/Dark Project/38.965/SVVD
+Galadan//12.568.367/LZYE
+SAM0URAI/Phenix Reborn/165.939/FFNY
+Warclat/Warriors of Darkness/109.805/DEXY
+lilith/Forces Liberatrices Intergalactique/868.653/HEDY
+lilith/Forces Liberatrices Intergalactique/1.184.656/BSJH
+flash44//2.031.340/STVW
+DeTonaTion/Forces Liberatrices Intergalactique/2.029.743/FFJF
+HopeandGlory/gnagnagna/826.395/IZMO
+HopeandGlory/gnagnagna/826.395/BLNS
+Darkpanzer//38.773/DJDY
+WhiteTiger/Forces Liberatrices Intergalactique/22.864/CHWN
+WhiteTiger/Forces Liberatrices Intergalactique/22.864/LDUG
+-Share-/Shaytans/501.169/AKNH
+- SkyNeT -/Alliance Fornoxienne/127.781/WDDN
+-DeUs-/Forces Liberatrices Intergalactique/1.037.746/GYXY
+-DeUs-/Forces Liberatrices Intergalactique/5.016.285/LVUU
+lancien07/ascension/30.112/EXUQ
+-DeUs-/Forces Liberatrices Intergalactique/5.016.285/PLPN
+-DeUs-/Forces Liberatrices Intergalactique/312.341/HIJM
+Horgh/Orilla/70.099/VTHH
+Horgh/Orilla/70.099/TNVZ
+Amiral Nym/-Les Pirates De Pegase-/3.285/DFBB
+karatekakaz/Childrens Elemental dragon warrior /40.662/VCJO
+Darkredos/RESISTANCE II/61.652/QXQN
+adalta/Ultime Ascension/1.378.495/HDHP
+flash44//532.159/OUDS
+Frank-Castle/Team-Rocket/14.386/ZNMI
+Frank-Castle/Team-Rocket/19.350/FWOQ
+Warclat/Warriors of Darkness/108.987/IAQX
+Sonnenkinder/- CSNU -/15.763/MZBG
+Sonnenkinder/- CSNU -/60.305/FLMC
+Idril thorn/Othalla/432.459/LBOF
+Idril thorn/Othalla/425.307/QUTL
+flash44/Universite LGDS/835.248/LSJR
+Lelouch/- CSNU -/2.925/WPXJ
+lilith/Forces Liberatrices Intergalactique/61.042/IEIY
+-laperuche-/Necromonger/73.394/UOPM
+//0/ICIT
+-Soska-/Les Titans/136.149/FUPO
+-DeUs-/Forces Liberatrices Intergalactique/272.929/UBCO
+-Soska-/Les Titans/163.315/INYU
+-Soska-/Les Titans/207.770/SOXE
+-Soska-/Les Titans/98.135/RUYV
+-Soska-/Les Titans/408.888/PDLC
+Darkredos/Manix/35.156/ZYNE
+-Soska-/Les Titans/259.314/WHLE
+-Soska-/Les Titans/303.204/APND
+SAM0URAI/Phenix Reborn/30.865/BCZZ
+-Lost-/Shaytans/82.289/BJUB
+-YOSHI-/MARIO BROS/51.448/RKKH
+-Lost-/Shaytans/1.611/DAXA
+- DaRkZ -/La Pomme Attitude/681.308/HOXY
+Darkredos/Manix/63.791/FZWL
+Angelus/Les Titans/1.755.195/SWFH
+Angra Mainyu//999.042/ILMB
+Charlemagne//12.334/JQOG
+-El GeNeRaL-/Pause-Cafe/225.924/CJIX
+-Lost-/Shaytans/82.361/CHCW
+mordekaiser//67.778/BNQF
+Commandeur/Manix/20.365/RZYE
+Commandeur/Manix/20.365/LVCX
+lemort/Childrens Elemental dragon warrior /850.955/BJTD
+WhiteTiger//62.660/ZKWO
+- DaRkZ -/La Pomme Attitude/90.571/ARGQ
+flash44/Universite LGDS/198.317/SQGE
+Commandeur/Manix/19.449/PXSJ
+WhiteTiger//89.666/LHBQ
+lilith/Forces Liberatrices Intergalactique/994.464/OBPS
+lilith/Forces Liberatrices Intergalactique/1.190.261/GXTQ
+lilith/Forces Liberatrices Intergalactique/1.032.442/AKMY
+freelancer/COOLassassin/53.054/HOPN
+leel/Othalla/488.368/ZEUO
+leel/Othalla/764.577/RNIT
+Amano Ginji/Les Titans/698.865/AKIL
+Amano Ginji/Les Titans/988.603/EZYP
+-Soska-/Les Titans/902.365/VRGU
+Commandeur/Manix/11.107/LZUD
+Amano Ginji/Les Titans/450.304/SGEM
+Amano Ginji/Les Titans/1.003.396/SSZE
+DASSIUS/Forces Liberatrices Intergalactique/2.402.945/QGCM
+Angra Mainyu//434.475/ALEB
+lilith/Forces Liberatrices Intergalactique/188.153/OODN
+lilith/Forces Liberatrices Intergalactique/188.153/JEJL
+Darkredos/Manix/6.639/LEHA
+DASSIUS/Forces Liberatrices Intergalactique/2.392.594/UNAB
+Amano Ginji/Les Titans/1.010.453/WWIG
+Idril thorn/Othalla/338.229/MHCT
+Frank-Castle/Team-Rocket/95.916/KBCE
+palladium/Armee des Anciens/6.536/TPCG
+//0/PDPR
+Frank-Castle/Team-Rocket/36.357/LTUO
+Thorus/Othalla/325.783/DNOZ
+Thorus/Othalla/342.877/NWQO
+Thorus/Othalla/370.677/QWCI
+Thorus/Othalla/370.677/QCYN
+Thorus/Othalla/399.572/NKJT
+Thorus/Othalla/400.390/TCLN
+Thorus/Othalla/400.390/LSLD
+palladium/Armee des Anciens/7.254/IGHE
+Thorus/Othalla/400.390/AWDR
+freelancer/COOLassassin/89.710/PXHK
+lilith/Forces Liberatrices Intergalactique/465.362/VBYO
+lilith/Forces Liberatrices Intergalactique/465.362/GPQQ
+freelancer/COOLassassin/551.386/EVMB
+Angelion//284.793/QJMG
+Ultima Arma/-Union Sacree-/22.849/OAJM
+Eldinf//165.190/EQOK
+Eldinf//219.532/FKGY
+lilith/Forces Liberatrices Intergalactique/105.018/KNUD
+Eldinf//293.290/OPAW
+flash44/Universite LGDS/2.979.099/FGTS
+SAM0URAI/Phenix Reborn/324.393/KOLC
+-DeUs-/Forces Liberatrices Intergalactique/1.103.260/BWJD
+-DeUs-/Forces Liberatrices Intergalactique/1.232.204/NHZW
+-DeUs-/Forces Liberatrices Intergalactique/1.103.260/UXOQ
+Devil Ginji/Les Titans/3.425.363/TSIE
+Devil Ginji/Les Titans/1.929.295/UYXZ
+Commandeur/Manix/43.640/BQCO
+Devil Ginji/Les Titans/1.929.295/DJHX
+-DeUs-/Forces Liberatrices Intergalactique/318.726/CQEY
+DASSIUS/Forces Liberatrices Intergalactique/1.795.282/VUCQ
+-DeUs-/Forces Liberatrices Intergalactique/331.164/DAPJ
+Commandeur/Manix/9.397/YOUS
+Devil Ginji/Les Titans/664.309/EXVT
+wesh/Alliance Stellaire Astrienne/707.548/AJKC
+Commandeur/Manix/10.197/UUKP
+karkass/Elder/64.241/JIDG
+Thorus/Othalla/186.111/VXHZ
+Frank-Castle/Team-Rocket/13.423/MRHD
+Commandeur/Manix/76.583/ABMF
+Thorus/Othalla/131.974/RNEF
+Thorus/Othalla/161.425/OFFF
+Thorus/Othalla/330.366/UDBV
+Frank-Castle/Team-Rocket/48.711/ZAJA
+Thorus/Othalla/186.125/ILVC
+Frank-Castle/Team-Rocket/47.032/BTET
+-El GeNeRaL-/Pause-Cafe/328.451/ZVVP
+Thorus/Othalla/191.991/AQZZ
+Ultima Arma/-Union Sacree-/24.299/AXYG
+Ultima Arma/-Union Sacree-/2.469.831/KWKF
+Commandeur/Manix/53.174/TRKU
+Thorus/Othalla/157.756/EAUL
+DASSIUS/Forces Liberatrices Intergalactique/64.189/HBYF
+LorD PhoeniX/Assemblee Divine/121.583/DXJS
+WhiteTiger/Forces Liberatrices Intergalactique/27.786/HJCQ
+Devil Ginji/Les Titans/915.506/MWYM
+SAM0URAI/Phenix Reborn/161.950/JVOS
+Horgh/Orilla/87.061/ABAB
+-Arkanor-/Phenix Reborn/428.203/TJQE
+-Arkanor-/Phenix Reborn/474.732/AVXE
+Commandeur/Manix/45.514/YMYP
+palladium/Armee des Anciens/78.199/VNVR
+Devil Ginji/Les Titans/668.403/CLBT
+Devil Ginji/Les Titans/645.241/EJDW
+Devil Ginji/Les Titans/701.606/PLQJ
+Devil Ginji/Les Titans/620.896/DTKA
+- DRAKEN -/Space Wolves DeStroyeR/1.765.471/ESZG
+//0/KAXV
+Devil Ginji/Les Titans/620.896/SHSE
+SESSID/L illumination finale /282.069/GSAT
+-Zohac-/le chapitre des Ultramarines/663.663/BZTR
+-Zohac-/le chapitre des Ultramarines/850.093/KWVW
+-DeUs-/Forces Liberatrices Intergalactique/744.020/OEHF
+-DeUs-/Forces Liberatrices Intergalactique/1.646.698/WWIP
+-DeUs-/Forces Liberatrices Intergalactique/9.102.163/YGQX
+-Zohac-/le chapitre des Ultramarines/902.328/UHAO
+-Zohac-/-GhoSt RiDeRs-/37.020/KTTX
+-Zohac-/le chapitre des Ultramarines/927.144/QGXN
+-DeUs-/Forces Liberatrices Intergalactique/4.634.122/QIIN
+lilith/Forces Liberatrices Intergalactique/52.473/PKWM
+Devil Ginji/Les Titans/421.191/KRKN
+Devil Ginji/Les Titans/918.191/QQLN
+Devil Ginji/Les Titans/799.971/BIOI
+Devil Ginji/Les Titans/799.971/XRYF
+Devil Ginji/Les Titans/801.008/VQYG
+Devil Ginji/Les Titans/709.330/YKHY
+Devil Ginji/Les Titans/825.532/AETM
+flash44/Universite LGDS/187.593/UVEV
+Devil Ginji/Les Titans/310.968/TYPO
+Devil Ginji/Les Titans/283.442/WELC
+Devil Ginji/Les Titans/394.626/OSRR
+Devil Ginji/Les Titans/380.229/NBAO
+Devil Ginji/Les Titans/385.983/MZKE
+Devil Ginji/Les Titans/284.624/RFII
+-DeUs-/Forces Liberatrices Intergalactique/3.126.262/EXBH
+Devil Ginji/Les Titans/1.844.915/MEHB
+Devil Ginji/Les Titans/425.104/NQVN
+Devil Ginji/Les Titans/415.860/BWKH
+Devil Ginji/Les Titans/361.674/MDCZ
+Frank-Castle/Team-Rocket/75.271/DRAT
+Horgh/Orilla/136.615/RFQV
+Horgh/Orilla/17.657/GHBB
+WhiteTiger/Forces Liberatrices Intergalactique/328.282/KQHL
+SAM0URAI/Ultime Ascension/485.656/DLJH
+SAM0URAI/Ultime Ascension/837.085/UMDK
+SAM0URAI/Ultime Ascension/1.149.760/FXMN
+Thorus/Othalla/15.258/GALP
+Frank-Castle/Team-Rocket/63.885/VGIL
+zeboss27//860/XRHI
+SAM0URAI/Ultime Ascension/930.966/KCNY
+Commandeur/Manix/4.254/OBJT
+Thorus/Othalla/52.820/DOEN
+Commandeur/Manix/5.632/YFCO
+Frank-Castle/Team-Rocket/86.557/PQFH
+Thorus/Othalla/57.306/BBQT
+- TeNebRe -/Alliance Fornoxienne/313.626/YAPL
+lilith/Forces Liberatrices Intergalactique/73.771/ULBF
+Amano Ginji/Les Titans/806.061/ASMN
+Amano Ginji/Les Titans/712.600/OATQ
+Amano Ginji/Les Titans/1.170.601/LHFI
+Amano Ginji/Les Titans/980.113/CVXZ
+zeboss27//17.081/VJFN
+Nelwork/Alliance des Anciens/3.924/GTTC
+Nelwork/Alliance des Anciens/217.664/APPY
+Nelwork/Alliance des Anciens/135.185/HJNC
+Amano Ginji/Les Titans/1.106.103/KMYV
+Nelwork/Alliance des Anciens/922.377/AIPJ
+Nelwork/Alliance des Anciens/871.033/WQRH
+Amano Ginji/Les Titans/1.275.667/YAND
+Amano Ginji/Les Titans/1.141.694/DBSN
+Thorus/Othalla/200.564/UCTQ
+DASSIUS/Forces Liberatrices Intergalactique/1.211.896/ZAJK
+lilith/Forces Liberatrices Intergalactique/1.818.914/HSMN
+-DeUs-/Forces Liberatrices Intergalactique/1.120.841/NBBA
+zeboss27//4.314/JATF
+starliff [Republique Galactique/Renaissance/2.810/RPWY
+starliff [Republique Galactique/Renaissance/2.914/GUVZ
+Aero storm/Armee des Anciens/164.018/RPOD
+Nelwork/Alliance des Anciens/96.773/ACRP
+DASSIUS/Forces Liberatrices Intergalactique/536.230/JKPP
+DASSIUS/Forces Liberatrices Intergalactique/536.230/XNDL
+SAM0URAI/Ultime Ascension/183.378/VKMW
+- DaRkZ -/La Pomme Attitude/219.195/ZSLD
+WhiteTiger/Forces Liberatrices Intergalactique/9.898/PHUC
+Anthrax/La guilde des scientifiques/2.427.546/PDYY
+-El GeNeRaL-/La NaNo/237.345/LWVO
+Amano Ginji/Les Titans/1.452.338/HDMJ
+DASSIUS/Forces Liberatrices Intergalactique/294.357/MAKE
+hurin//71.597/XJLR
+Thorus/Othalla/9.138/RBVM
+Amano Ginji/Les Titans/586.848/GVQA
+zeboss27/Dark Followers/949/ZVRN
+-DeUs-/Forces Liberatrices Intergalactique/2.683.666/BRLH
+Frank-Castle/Team-Rocket/18.495/WHUI
+SAM0URAI/Ultime Ascension/575.197/HPFR
+Emesics/La NaNo/365.270/ALYN
+Amano Ginji/Les Titans/656.182/GAKW
+Amano Ginji/Les Titans/828.377/FATZ
+Amano Ginji/Les Titans/709.979/ZHCQ
+Aero storm/Armee des Anciens/891/HUWO
+Amano Ginji/Les Titans/1.459.708/OEXX
+leel//943.662/YHFZ
+Amano Ginji/Les Titans/802.774/OCQW
+Amano Ginji/Les Titans/747.705/TPHV
+Amano Ginji/Les Titans/805.121/TIHS
+leel/Elder/792.928/LRBU
+Amano Ginji/Les Titans/856.854/KQUX
+Amano Ginji/Les Titans/925.372/LEEY
+zavata/Team-Rockette/35.717/YYDG
+arbiter73/Space Wolves DeStroyeR/1.302.636/XYKL
+arbiter73/Space Wolves DeStroyeR/1.302.636/SAIB
+leel/Elder/754.532/ANSI
+flash44/La guilde des scientifiques/565.664/OIOA
+leel/Elder/393.859/OTJD
+WhiteTiger/Forces Liberatrices Intergalactique/9.678/SFWR
+Aero storm/Armee des Anciens/3.988/RUTS
+flash44/La guilde des scientifiques/195.752/DFYV
+//0/ESYD
+Horgh/Orilla/16.440/FVUJ
+freelancer/COOLassassin/82.739/TJXI
+lilith/Forces Liberatrices Intergalactique/435.430/PSIG
+//0/VXGB
+Kiviuq/Alliance Fornoxienne/72.679/TJCS
+dassius//85.227/QDBK
+-Legion-/Alliance Fornoxienne/45.666/ZSLA
+Thorus/Othalla/86.811/UEDJ
+Thorus/Othalla/96.929/CQJY
+-Legion-/Alliance Fornoxienne/26.763/WXHY
+lancien07/-SKULLS-/28.286/EBSA
+- SkyNeT -/Alliance Fornoxienne/91.592/SBLS
+meldart/Elementals dragons warriors/91.815/CRNL
+Warclat//291.526/UDTO
+freelancer/COOLassassin/664.627/EHIP
+Warclat//105.563/CEHW
+-Legion-/Alliance Fornoxienne/161.108/ZINB
+Thorus/Othalla/485.096/NNVQ
+Thorus/Othalla/302.871/OKKI
+Thorus/Othalla/320.720/YYPM
+Thorus/Othalla/338.416/OGOZ
+Thorus/Othalla/384.086/EXXT
+Thorus/Othalla/428.333/REDX
+Thorus/Othalla/438.836/AMJW
+Thorus/Othalla/477.671/LLEV
+Thorus/Othalla/477.671/ZPKT
+SAM0URAI/Ultime Ascension/169.599/RRWF
+alkolow//157.757/WYRH
+Thorus/Othalla/225.793/LTVW
+Aero storm/Armee des Anciens/53.152/YZVB
+freelancer/COOLassassin/298.563/ARGT
+Warclat//196.514/NHPC
+Alucard/Alliance des 4 Races/1.733.281/RKHQ
+Warclat//171.394/QXCH
+//0/ZOZY
+-El GeNeRaL-/La NaNo/207.560/LAHQ
+Aero storm/Armee des Anciens/49.144/DBAB
+Kiviuq/Alliance Fornoxienne/18.050/VPVB
+Aero storm/Armee des Anciens/21.290/LJZG
+arbiter73/Space Wolves DeStroyeR/1.079.636/KBKC
+THIAM/Expedition Galaxie Pegase/598.880/FTVX
+THIAM/Expedition Galaxie Pegase/598.880/UBXX
+freelancer/COOLassassin/298.563/TDEG
+FEL1NE//198.677/ULSX
+Aero storm/Armee des Anciens/27.435/OQXM
+FEL1NE//66.845/AEXH
+-gorth-/bad company/46.075/XFVW
+-Legion-/Alliance Fornoxienne/30.558/JQAJ
+-Legion-/Alliance Fornoxienne/30.558/MXDA
+Warclat//102.555/HWNN
+-Legion-/Alliance Fornoxienne/42.184/QVTN
+FEL1NE//91.927/DTPH
+-El GeNeRaL-/La NaNo/110.859/CMCD
+FEL1NE//334.462/VJCM
+share/La NaNo Wings/546.417/PMWH
+Warclat//195.486/SEDO
+starliff [Republique Galactique/Renaissance/74.797/PYGK
+starliff [Republique Galactique/Renaissance/117.126/EEVY
+THIAM/Expedition Galaxie Pegase/292.625/IEPG
+Warclat//28.690/PAYO
+DASSIUS/Forces Liberatrices Intergalactique/1.647.626/HHSN
+DASSIUS/Forces Liberatrices Intergalactique/1.250.183/JKVU
+-El GeNeRaL-/La NaNo/11.089/FWDC
+SAM0URAI/Phenix Reborn/1.621/CJTQ
+-El GeNeRaL-/La NaNo/5.236/UESD
+-El GeNeRaL-/La NaNo/5.236/CCQY
+DASSIUS/Forces Liberatrices Intergalactique/510.778/QYCV
+alkolow//68.694/YFKZ
+alkolow//67.792/MMDQ
+share/La NaNo Wings/217.999/LJRS
+flash44/La guilde des scientifiques/567.105/RCMR
+Frank-Castle/Team-Rocket/108.918/SGAA
+Frank-Castle/Team-Rocket/37.428/BMTZ
+alkolow//230.821/BPNN
+Aero storm/Armee des Anciens/9.834/LMEJ
+Phenix77/Societe Lantienne/196.899/NLIP
+- SkyNeT -/Alliance Fornoxienne/82.025/IOPB
+freelancer/COOLassassin/267.238/SYBK
+arbiter73/Space Wolves DeStroyeR/1.720.853/GUJB
+Phenix77/Societe Lantienne/152.449/UEVM
+lancien07/-SKULLS-/224.610/MLHW
+sansjoueur/Ligue de Delos ( la 7 ieme cpg )/28.632/BULT
+Phenix77/Societe Lantienne/178.394/MMTH
+-Legion-/Alliance Fornoxienne/39.307/INYE
+-Legion-/Alliance Fornoxienne/43.535/AKIX
+-Legion-/Alliance Fornoxienne/43.535/HEEG
+-final-/Ultime Ascension/1.114.106/DVDQ
+-El GeNeRaL-/La NaNo/207.128/DHYW
+-final-/Ultime Ascension/1.176.460/ZFAX
+-Lost-/Shaytans/24.063/WQVP
+Escaflowne/Ultime Ascension/1.003.285/XKKJ
+Escaflowne/Ultime Ascension/1.690.074/BVFI
+Escaflowne/Ultime Ascension/634.838/XVJD
+//0/ZOEQ
+Escaflowne/Ultime Ascension/995.693/RDEN
+THIAM/Expedition Galaxie Pegase/27.159/HYFI
+freelancer/COOLassassin/6.042/USPI
+Escaflowne/Ultime Ascension/887.258/NGED
+B3njiman--/Les Loups de Fenris/687.683/LBUW
+starliff [Republique Galactique/Renaissance/61.850/WZAX
+starliff [Republique Galactique/Renaissance/53.005/WDDZ
+SAM0URAI/Phenix Reborn/12.004/UECK
+alkolow//117.476/XCZU
+Frank-Castle/Team-Rocket/24.107/FXOP
+-final-/Ultime Ascension/953.770/JLIR
+DASSIUS/Forces Liberatrices Intergalactique/598.666/HPXD
+DASSIUS/Forces Liberatrices Intergalactique/179.206/AKFB
+-Legion-/Alliance Fornoxienne/163.058/QYHO
+-Legion-/Alliance Fornoxienne/63.067/KONI
+Warclat//704.102/RZZL
+Escaflowne/Ultime Ascension/800.687/TBLA
+Emesics/La NaNo/950.477/OCKA
+Warclat//283.404/YQWG
+Warclat//283.404/KBEZ
+Warclat//300.776/BMOD
+Warclat//283.404/OVPC
+bansidh//75/RDCT
+bansidh//135/NFGW
+-El GeNeRaL-/La NaNo/56.308/IDNC
+bansidh//75/ADBU
+- SkyNeT -/Alliance Fornoxienne/284.662/XZCN
+alkolow/l Empire Sith/147.910/HADK
+bansidh//90/LTXW
+Escaflowne/Ultime Ascension/1.473.132/OTOC
+Warclat//820.633/KSKL
+-final-/Ultime Ascension/98.894/RTVG
+-final-/Ultime Ascension/325.876/VNFO
+-final-/Ultime Ascension/1.070.202/XNCJ
+Thorus/Othalla/432.377/KKHA
+Thorus/Othalla/592.570/LCRX
+Thorus/Othalla/624.070/UGVN
+Thorus/Othalla/519.199/IYYZ
+Thorus/Othalla/687.021/LCXD
+Thorus/Othalla/687.021/ZYIR
+-Mononoke28-//2.363/HPOR
+-Mononoke28-//2.727/AQFP
+-Mononoke28-//2.877/TVHO
+Thorus/Othalla/687.021/SWLT
+-Mononoke28-//5.073/PBIK
+Warclat//802.089/CWQS
+DASSIUS/Forces Liberatrices Intergalactique/1.156.817/ADLK
+FEL1NE/Dark Project/627.662/INZH
+FEL1NE/Dark Project/808.123/AHVN
+FEL1NE/Dark Project/518.788/KJXZ
+FEL1NE/Dark Project/635.529/CGMU
+Kraljica/COOLassassin/23.509/JZDM
+-Mononoke28-//13.750/UCER
+-El GeNeRaL-/La NaNo/16.238/JOMU
+- -MS 13- -/Hell Inferno/886.800/CYSW
+-Mononoke28-//177.467/QCAK
+DASSIUS/Forces Liberatrices Intergalactique/1.325.366/PZAR
+Warclat//224.365/QPEL
+-Mononoke28-/Armee des Anciens/191.108/STIO
+-Mononoke28-/Armee des Anciens/8.746/ZLBU
+DASSIUS/Forces Liberatrices Intergalactique/844.334/BCOR
+Warclat//224.365/QNFE
+Warclat//471.377/EHSL
+- TeNebRe -/Alliance Fornoxienne/72.660/GXAK
+freelancer/COOLassassin/33.397/TFIT
+miglimik/Alliance Fornoxienne/278.195/LJYS
+B3njiman--/Les Loups de Fenris/556.807/MRMA
+B3njiman--/Les Loups de Fenris/234.595/FFTX
+THIAM/The BLOODY VENGEANCE/126.834/CJJH
+DASSIUS/Forces Liberatrices Intergalactique/1.212.684/VARB
+Kiviuq/Alliance Fornoxienne/816.398/KNCR
+Escaflowne/Ultime Ascension/1.512.290/ETMN
+arbiter73/Space Wolves DeStroyeR/833.057/JRYH
+-Mononoke28-//13.566/STHV
+galadriel/L illumination finale /316.069/NQXW
+Alucard/Alliance des 4 Races/1.390.000/KRTM
+DASSIUS/Forces Liberatrices Intergalactique/198.040/AQTE
+Col sheparde/Armee des Anciens/20.007/TAIL
+B3njiman--/Les Loups de Fenris/253.291/YNEE
+palladium/Armee des Anciens/64.268/JTUR
+-Mononoke28-/Armee des Anciens/93.940/AKZP
+-Mononoke28-//13.566/PTAS
+Aero storm/Armee des Anciens/2.845/XFRJ
+-El GeNeRaL-/La NaNo/20.047/VJOZ
+Emesics/La NaNo/20.148/KLMD
+migli/Phenix Reborn/230.276/NUVR
+//0/XEOR
+Dark R3v4n/Forces Liberatrices Intergalactique/6.715/JJMS
+Aero storm/Armee des Anciens/5.976/FDRB
+arbiter73/Space Wolves DeStroyeR/2.130.442/JAOZ
+-Legion-/Alliance Fornoxienne/53.628/BVVU
+-Legion-/Alliance Fornoxienne/196.279/OJGQ
+Warclat//427.284/JUNY
+Warclat//372.835/EAZJ
+FEL1NE/Les Loups de Fenris/117.429/RQGI
+Thorus/Othalla/331.017/BTEZ
+-Merlin- [Republique Galactique/Renaissance/496/OBKV
+Thorus/Othalla/561.151/TSSR
+Thorus/Othalla/561.151/WBBT
+-final-/Ultime Ascension/1.282.203/LOIU
+flash44/La guilde des scientifiques/983.178/TBNA
+Kiviuq/Alliance Fornoxienne/44.967/QRJA
+Freelancer/PSER/36.761/AMVT
+freelancer/COOLassassin/104.174/SCCC
+DASSIUS/Forces Liberatrices Intergalactique/699.115/MLTO
+migli/Phenix Reborn/43.618/EBXY
+DASSIUS/Forces Liberatrices Intergalactique/423.218/ZIGO
+DASSIUS/Forces Liberatrices Intergalactique/1.828.395/TYYV
+DASSIUS/Forces Liberatrices Intergalactique/1.738.111/LMOH
+-Share-/Shaytans/835.451/FKHQ
+-Mononoke28-//15.372/AJKZ
+Thorus/Othalla/636.350/QVPM
+Thorus/Othalla/836.303/IJDG
+migli/Phenix Reborn/242.458/HFUY
+Thorus/Othalla/168.744/BXEX
+-gorth-/Bene Tleilax/58.957/NATE
+SAM0URAI/Ultime Ascension/51.573/ZNHR
+SuPeR MaRiO//307.803/JFKZ
+SuPeR MaRiO//854.831/QWQX
+migli/Phenix Reborn/95.976/OVQA
+leel/Elder/503.840/ISMK
+DASSIUS/Forces Liberatrices Intergalactique/2.964.317/TZFG
+Thorus/Othalla/85.906/TVBY
+leel/Elder/1.300.060/ZUMN
+migli/Phenix Reborn/206.280/STEN
+DASSIUS/Forces Liberatrices Intergalactique/2.964.317/TBSA
+SuPeR MaRiO//53.273/XSUB
+migli/Phenix Reborn/140.143/PESZ
+galadriel/L illumination finale /283.610/GJDX
+DASSIUS/Forces Liberatrices Intergalactique/1.628.507/IULK
+DASSIUS/Forces Liberatrices Intergalactique/1.628.507/QQDK
+- Zeus -/Divinity Angels/47.943/FJDU
+alkolow//10.624/VXEA
+DASSIUS/Forces Liberatrices Intergalactique/2.175.552/DBQV
+Thorus/Othalla/481.187/IMDJ
+DASSIUS/Forces Liberatrices Intergalactique/3.152.636/ZQYT
+Thorus/Othalla/750.326/DCCS
+Thorus/Othalla/263.190/NMSY
+migli/Phenix Reborn/195.702/BWQX
+Frank-Castle/Team-Rocket/89.634/OPJF
+-gorth-/Bene Tleilax/70.850/WQKX
+Alkotest//11.305/RFPC
+Tranceport/-Union Sacree-/32/HUKB
+Tranceport/-Union Sacree-/356/LXMP
+Tranceport/-Union Sacree-/577/ORHL
+Tranceport/-Union Sacree-/947/WHLL
+Tranceport/-Union Sacree-/660/RTMM
+FEL1NE/Les Loups de Fenris/123.576/PPYV
+Escaflowne/Ultime Ascension/210.511/UYRR
+Frank-Castle/Team-Rocket/64.779/WOQO
+- DRAKEN -/Space Wolves DeStroyeR/1.041.607/XMNX
+Corail//154.054/XPAV
+Corail//154.054/QWYX
+Corail//122.095/GOTQ
+Corail//154.054/KYYE
+Escaflowne/Ultime Ascension/512.562/CPJQ
+-Share-/Shaytans/1.562.019/UNRL
+leel//804.417/CMFI
+leel//535.305/HCBP
+-gorth-/Bene Tleilax/11.917/DYVV
+Lucretia/- La Grande Alliance -/87.503/LTYP
+-final-/Ultime Ascension/247.539/HGWR
+Corail//10.555/LPIJ
+le1000/Bene Tleilax/5.604/VFNX
+-Saren-//7.381/DRNI
+DASSIUS/Forces Liberatrices Intergalactique/2.320.934/IKJC
+Corail//233.278/GHOF
+Corail//273.189/FCCJ
+Corail//251.700/XZVZ
+Thorus/Othalla/856.716/GDZW
+itachi77/Les News/6.369/GAQL
+Kamuii//255.318/ETZX
+Corail//245.803/JUAW
+lancien07/-SKULLS-/179.427/RPPW
+Corail//329.364/AIXC
+leel//799.710/JNZU
+Warclat//345.591/TVDO
+DASSIUS/Forces Liberatrices Intergalactique/2.779.446/UDMG
+- DRAKEN -/Space Wolves DeStroyeR/1.852.252/KFON
+Warclat//654.486/ATZH
+Thorus/Othalla/445.112/UXDB
+Thorus/Othalla/483.497/PAAF
+Thorus/Othalla/533.241/GJFG
+Lucretia//14.804/TWEX
+DASSIUS/Forces Liberatrices Intergalactique/1.042.369/PANJ
+Thorus/Othalla/209.524/SUQM
+larson//1.442.057/KVTE
+Corail//64.016/XYMR
+leel//799.710/XBSZ
+sansjoueur/Ligue de Delos ( la 7 ieme cpg )/81.497/PFFV
+sansjoueur/Ligue de Delos ( la 7 ieme cpg )/81.497/UBAW
+DASSIUS/Forces Liberatrices Intergalactique/2.066.212/DHVP
+DASSIUS/Forces Liberatrices Intergalactique/2.139.468/CXBJ
+Corail//301.724/UDLP
+Thorus/Othalla/551.817/ZYXU
+Thorus/Othalla/482.646/ELQA
+Thorus/Othalla/1.050.356/ROEN
+Thorus/Othalla/1.106.098/JVFP
+Thorus/Othalla/1.185.293/XUBR
+share/La NaNo/119.056/TQCX
+Horgh/Orilla/11.038/WWOV
+DASSIUS/Forces Liberatrices Intergalactique/547.188/JNBZ
+le1000/Bene Tleilax/10.193/SBLZ
+le1000/Bene Tleilax/10.193/YFWC
+Thorus/Othalla/604.416/VOII
+Corail//131.537/MCYH
+FEL1NE/Les Loups de Fenris/507/HTOW
+DASSIUS/Forces Liberatrices Intergalactique/227.951/CGVL
+DASSIUS/Forces Liberatrices Intergalactique/3.691.044/JGNU
+Thorus/Othalla/537.860/UBOY
+-El GeNeRaL-/La NaNo/336.064/SULW
+Escaflowne/Ultime Ascension/1.913.835/MBPY
+DASSIUS/Forces Liberatrices Intergalactique/246.667/FLYG
+flash44/La guilde des scientifiques/2.925.775/ELBK
+Corail//137.718/ZQMW
+SESSID//312.807/UPLG
+Saren/La NaNo/601.226/IVWW
+DASSIUS/Forces Liberatrices Intergalactique/449.674/CJHQ
+lilith/Forces Liberatrices Intergalactique/1.216.991/MZGH
+DASSIUS/Forces Liberatrices Intergalactique/510.950/HHWE
+le1000/Bene Tleilax/578/QVHF
+Thorus/Othalla/89.989/IDUI
+Thorus/Othalla/59.039/LROP
+ReDempTion14/Les Derniers Olympiens/371.101/QVYT
+ReDempTion14/Les Derniers Olympiens/115.021/YRRU
+ReDempTion14/Les Derniers Olympiens/371.101/TLIT
+DASSIUS/Forces Liberatrices Intergalactique/1.401.556/QCQQ
+Thorus/Othalla/42.471/NEIB
+Lucretia/Divinity Angels/84.881/WVNM
+Alkotest/Divinity Angels/6.501/OVAB
+TEREUS//113.173/NZXB
+DASSIUS/Forces Liberatrices Intergalactique/2.640.983/SPYZ
+alkolow/Angels Wing/160.862/QHFC
+lilith/Forces Liberatrices Intergalactique/92.469/CMGT
+Corail//182.096/CXNN
+-gorth-/Bene Tleilax/15.718/EPVW
+lilith/Forces Liberatrices Intergalactique/94.545/IZCF
+lilith/Forces Liberatrices Intergalactique/431.274/KFFM
+Col sheparde/Armee des Anciens/365/KFSU
+-gorth-/Bene Tleilax/7.998/YRYN
+-gorth-/Bene Tleilax/13.435/ZFNC
+DASSIUS/Forces Liberatrices Intergalactique/219.610/MQUD
+lancien07/-SKULLS-/331.064/PGAX
+DASSIUS/Forces Liberatrices Intergalactique/682.857/YHYK
+DASSIUS/Forces Liberatrices Intergalactique/2.381.534/DOCP
+lilith/Forces Liberatrices Intergalactique/23.012/XNXO
+Corail//150.536/PTSL
+Corail//150.536/XTSS
+Les Gaulois//16.853/KNAM
+lilith/Forces Liberatrices Intergalactique/285.630/ARQT
+- SkyNeT -/Alliance Fornoxienne/186.661/HYEC
+SESSID//150.109/WIEZ
+Armadillo/Warriors of Darkness/296.267/YJPH
+AtavhysteRie/Alliance des 4 Races/1.058.740/RFYG
+DeTonaTion/Forces Liberatrices Intergalactique/1.120.557/LYRU
+DeTonaTion/Forces Liberatrices Intergalactique/865.047/IJEM
+Thorus/Othalla/22.452/UKGV
+Warclat//87.295/LRDM
+Lucretia/Divinity Angels/241.615/IMTZ
+freelancer/COOLassassin/509.853/OPDE
+Thorus/Othalla/262.571/KBXH
+Thorus/Othalla/276.048/JFWY
+Thorus/Othalla/296.143/FFIY
+Bellone/Alliance des 4 Races wing/439.235/JOKH
+-Nott-//55.731/HRGE
+Thorus/Othalla/290.343/TABB
+Thorus/Othalla/542.834/IOWJ
+Thorus/Othalla/542.834/RGQR
+-Nott-//21.954/DWCM
+Thorus/Othalla/568.926/CRKT
+DASSIUS/Forces Liberatrices Intergalactique/162.688/FOHR
+Horgh/Orilla/70.065/OSTK
+-Nott-//28.047/UMVU
+Jack0Neill/Equipe SG-1/49.641/QHLM
+Les Gaulois//7.004/XNIW
+Thorus/Othalla/181.673/ATIL
+DeTonaTion/Forces Liberatrices Intergalactique/1.919.273/OPQE
+AtavhysteRie/Alliance des 4 Races/101.694/EJHD
+Thorus/Othalla/527.143/CIDY
+B3njiman--/Les Loups de Fenris/1.515.767/JBIT
+Thorus/Othalla/199.667/XGXQ
+B3njiman--/Les Loups de Fenris/1.515.767/MUMI
+DASSIUS/Forces Liberatrices Intergalactique/477.488/BEMQ
+Escaflowne/Ultime Ascension/688.716/ELAW
+SESSID//252.160/ICFX
+Thorus/Othalla/126.167/XPNC
+Thorus/Othalla/133.978/WZDQ
+Thorus/Othalla/136.545/ZNGG
+Thorus/Othalla/102.307/TVEQ
+DASSIUS/Forces Liberatrices Intergalactique/193.179/ZGZF
+Thorus/Othalla/120.331/DABC
+Thorus/Othalla/141.086/XXCS
+Thorus/Othalla/141.086/QABR
+Thorus/Othalla/59.468/GYAK
+meldart/PSER/34.098/DAVZ
+meldart/PSER/34.098/RSYT
+Thorus/Othalla/431.638/CMQL
+Thorus/Othalla/433.658/YBTP
+guardians/La Releve/1.355/QFSH
+Alkotest/Divinity Angels/11.846/ZFNC
+DASSIUS/Forces Liberatrices Intergalactique/124.123/YKEB
+Emesics//978.579/MOHN
+Thorus/Othalla/123.121/AXZK
+appleseed/Shaytans/601.739/FDTT
+Warclat/Dark-Hunter/222.653/IGSQ
+guardians/La Releve/3.050/YOOH
+freelancer/COOLassassin/214.341/XZGD
+SESSID//336.728/HFPY
+SESSID//336.728/HBJS
+Warclat/Dark-Hunter/156.466/BBJT
+guardians/La Releve/3.482/NOEG
+Warclat/Dark-Hunter/361.304/EKSZ
+meldart/PSER/65.391/QZWA
+meldart/PSER/93.991/LHGS
+Warclat/Dark-Hunter/401.654/IKRA
+Thorus/Othalla/79.958/BXIG
+Thorus/Othalla/110.333/MBZX
+Thorus/Othalla/465.063/ODOV
+Thorus/Othalla/135.268/BYQD
+Thorus/Othalla/135.268/FFVE
+Thorus/Othalla/465.063/GWFJ
+Thorus/Othalla/919.514/PDLQ
+Thorus/Othalla/1.024.160/WZYC
+Thorus/Othalla/704.405/URXV
+Thorus/Othalla/157.441/JWSD
+-eXtincTion-//2.172.966/RDHP
+DASSIUS/Forces Liberatrices Intergalactique/1.747.778/EFVZ
+DASSIUS/Forces Liberatrices Intergalactique/567.888/HQYC
+Alkotest/Divinity Angels/14.685/YNEE
+ATTM-Mythix//15.419/JYAK
+DASSIUS/Forces Liberatrices Intergalactique/1.072.632/SAKQ
+DASSIUS/Forces Liberatrices Intergalactique/1.091.024/GHFY
+-eXtincTion-//2.589.355/HILT
+DASSIUS/Forces Liberatrices Intergalactique/336.309/UJGQ
+Emesics//978.579/ZJVM
+DASSIUS/Forces Liberatrices Intergalactique/1.615.862/DDWQ
+Thorus/Othalla/416.767/UWPZ
+le1000/Bene Tleilax/3.613/UDPR
+Thorus/Othalla/19.761/SWLZ
+appleseed/Shaytans/188.071/QCFM
+Thorus/Othalla/123.139/GOEV
+DarkSkyZ [The/WolF RiDeRs/282.607/FSNN
+appleseed/Shaytans/336.461/LJEM
+whynot/Expedition Galaxie Pegase/4.416.100/NXUF
+Thorus/Othalla/162.412/YOJW
+Thorus/Othalla/126.182/UFRB
+B3njiman--/Les Loups de Fenris/1.078.905/ZNDX
+ATTM-Mythix//18.624/PFYC
+DASSIUS/Forces Liberatrices Intergalactique/205.110/WYYC
+-final-/Ultime Ascension/2.977.377/GSYI
+Thorus/Othalla/537.054/SPCO
+Thorus/Othalla/537.054/AOJM
+appleseed/Shaytans/167.242/QCDD
+appleseed/Shaytans/860.896/ZCGH
+DASSIUS/Forces Liberatrices Intergalactique/240.341/KYWC
+DASSIUS/Forces Liberatrices Intergalactique/309.794/NDEB
+DASSIUS/Forces Liberatrices Intergalactique/150.525/WSMT
+Thorus/Othalla/48.422/KRBC
+Thorus/Othalla/62.804/QPYJ
+DASSIUS/Forces Liberatrices Intergalactique/99.775/ALNG
+DASSIUS/Forces Liberatrices Intergalactique/185.495/PDGM
+Warclat/Dark-Hunter/83.315/GUNK
+lilith/Forces Liberatrices Intergalactique/1.741.105/YDZH
+-final-/Ultime Ascension/1.561.022/LKXO
+El General/La NaNo/35.334/ADNR
+Armadillo/Warriors of Darkness/103.424/UNSO
+itachi77/Les News/584.506/INGI
+freelancer/COOLassassin/177.641/YEDF
+itachi77/Les News/636.180/GGJS
+itachi77/Les News/636.180/OWXC
+itachi77/Les News/666.009/SGGT
+DASSIUS/Forces Liberatrices Intergalactique/100.187/PUVI
+itachi77/Les News/696.368/EOEW
+itachi77/Les News/1.104.639/BAXJ
+Wishmaster/Othalla/232.107/MTPF
+DASSIUS/Forces Liberatrices Intergalactique/100.187/RNDA
+DASSIUS/Forces Liberatrices Intergalactique/142.110/EOUX
+DASSIUS/Forces Liberatrices Intergalactique/910.283/WFAO
+Warclat/Dark-Hunter/120.782/RWFU
+DASSIUS/Forces Liberatrices Intergalactique/872.403/YYDF
+DASSIUS/Forces Liberatrices Intergalactique/1.065.072/BNMZ
+- Chronos -//88.290/GGYR
+Thorus/Othalla/88.756/ZNEB
+DreadRox//243.839/UMPC
+DASSIUS/Forces Liberatrices Intergalactique/1.340.996/DSHO
+SWAT Killer/Grand Empire Arkonide/12.881/FDHY
+Grelotte//434.153/JTNZ
+DASSIUS/Forces Liberatrices Intergalactique/768.898/HARD
+DreadRox//758.381/CSTR
+Horgh/Orilla/186.527/VCNI
+Horgh/Orilla/309.758/PZPD
+-eXtincTion-//252.548/UKJF
+-eXtincTion-//268.173/EZEQ
+-eXtincTion-//300.515/YJAN
+-eXtincTion-//328.858/IMCG
+-eXtincTion-//5.718.703/WBRW
+-eXtincTion-//7.182.513/ALGT
+DASSIUS/Forces Liberatrices Intergalactique/1.178.233/DMXZ
+Grelotte/ZaFroid/967.322/YJMR
+Thorus/Othalla/633.070/GPQH
+Thorus/Othalla/749.311/XDJA
+Thorus/Othalla/763.787/GSUK
+Thorus/Othalla/794.502/CLPB
+Thorus/Othalla/874.778/FVNL
+Thorus/Othalla/536.783/QWWW
+Thorus/Othalla/939.951/EIOG
+Thorus/Othalla/989.883/NJIJ
+Thorus/Othalla/1.113.461/AZSM
+Thorus/Othalla/1.157.306/PDAZ
+alkolow/Divinity Angels/124.724/NBPD
+Thorus/Othalla/1.157.306/WPDU
+FEL1NE/Les Loups de Fenris/157.118/KVAS
+DASSIUS/Forces Liberatrices Intergalactique/665.812/NATJ
+Warclat/Dark-Hunter/470.229/SNVJ
+DASSIUS/Forces Liberatrices Intergalactique/268.533/HZVN
+Alkotest/Divinity Angels/9.850/HHCB
+DASSIUS/Forces Liberatrices Intergalactique/292.876/DESF
+Thorus/Othalla/258.103/NTDU
+-Nilek-/Les Loups de Fenris/68.750/ZLTA
+TEREUS//4.312.813/MOMR
+Thorus/Othalla/258.103/AHWC
+DASSIUS/Forces Liberatrices Intergalactique/833.859/EVRL
+Thorus/Othalla/179.526/BVGN
+Thorus/Othalla/88.193/POUQ
+Thorus/Othalla/106.071/RPXX
+Thorus/Othalla/106.071/YQIS
+Thorus/Othalla/74.729/TTZK
+Thorus/Othalla/75.103/RQDK
+Thorus/Othalla/161.959/GQUU
+Thorus/Othalla/219.748/MMNI
+DeTonaTion/Forces Liberatrices Intergalactique/14.763.328/DZSK
+DASSIUS/Forces Liberatrices Intergalactique/1.619.512/WQYM
+DASSIUS/Forces Liberatrices Intergalactique/1.930.324/KQOW
+-Nilek-/Les Loups de Fenris/303.771/YAPV
+Grelotte/ZaFroid/1.383.320/ZGQG
+Frank-Castle/Alone Mais Pas Vraiment/28.987/FPXJ
+B3njiman--/Les Loups de Fenris/709.198/SDQU
+-YOSHI-/LA MARIO /160.402/HFAE
+DASSIUS/Forces Liberatrices Intergalactique/261.601/YCXL
+Warclat/Dark-Hunter/674.130/RDRY
+Mirvin/Shaytan Pause/11.033/IZZA
+Warclat/Dark-Hunter/249.511/BAKR
+Volktair/Forces Liberatrices Intergalactique/804.690/GRTH
+B3njiman--/Les Loups de Fenris/1.072.276/IUBQ
+flash44/La guilde des scientifiques/133.426/ZKCL
+Warclat/Dark-Hunter/165.075/AWTY
+DASSIUS/Forces Liberatrices Intergalactique/2.009.407/GFMT
+B3njiman--/Les Loups de Fenris/884.742/JBZG
+DASSIUS/Forces Liberatrices Intergalactique/2.634.004/PCTK
+Grelotte/ZaFroid/2.298.659/MHBQ
+ElGeNeRaL/La NaNo/222.837/GHDL
+Escaflowne/Ultime Ascension/682.392/YATG
+Warclat/Dark-Hunter/277.503/CDYU
+Shepard-N7/Dark Project/330.843/DMAF
+Warclat/Dark-Hunter/231.846/RZRK
+Thorus/Othalla/71.305/CCXO
+Thorus/Othalla/85.282/KUNM
+Thorus/Othalla/119.433/JOHX
+Thorus/Othalla/108.101/VFWE
+Thorus/Othalla/135.738/JCYS
+Thorus/Othalla/140.118/XHMQ
+Thorus/Othalla/163.553/JWNH
+Thorus/Othalla/176.979/JUZN
+Thorus/Othalla/176.979/CLNV
+Thorus/Othalla/181.365/WSPN
+Thorus/Othalla/219.450/WTWF
+Thorus/Othalla/219.450/POIX
+DASSIUS/Forces Liberatrices Intergalactique/531.748/QQVM
+whynot/Expedition Galaxie Pegase/24.353/FGEA
+B3njiman--/Les Loups de Fenris/499.577/BDAA
+Warclat/Dark-Hunter/1.175.245/HWND
+DASSIUS/Forces Liberatrices Intergalactique/248.436/SHJJ
+B3njiman--/Les Loups de Fenris/1.294.772/ULUZ
+Thorus/Othalla/481.470/MIWX
+Thorus/Othalla/481.470/YKEC
+-Deimos-/Bots of the server/21.225/AYHK
+Mirvin/Shaytan Pause/14.344/DQBX
+-Deimos-/Bots of the server/30.976/MYEJ
+Thorus/Othalla/481.470/DPMW
+-Nott-//44.279/IKOZ
+-Nott-//46.916/YPIK
+Warclat/Dark-Hunter/281.759/QRFP
+DASSIUS/Forces Liberatrices Intergalactique/2.677.828/APTZ
+DASSIUS/Forces Liberatrices Intergalactique/535.646/LDJL
+-gorth-/Divinity Angels/80.225/JDLI
+Thorus/Othalla/233.088/HOSK
+Thorus/Othalla/274.763/YGVT
+Thorus/Othalla/285.998/BCGI
+Thorus/Othalla/294.014/VNTR
+Thorus/Othalla/301.459/BREK
+Thorus/Othalla/313.570/QLMP
+Thorus/Othalla/318.621/LAMO
+Thorus/Othalla/330.895/GQPF
+Thorus/Othalla/336.187/PQSC
+Thorus/Othalla/342.983/JVGB
+Thorus/Othalla/375.919/YTGG
+-Legion-/Alliance Fornoxienne/95.707/OZLK
+DASSIUS/Forces Liberatrices Intergalactique/552.612/HCBX
+DASSIUS/Forces Liberatrices Intergalactique/443.826/MQFY
+Warclat/Dark-Hunter/365.533/NOIP
+DASSIUS/Forces Liberatrices Intergalactique/1.329.100/GKTC
+B3njiman--/Les Loups de Fenris/1.294.772/WLYT
+alkolow/Divinity Angels/275.794/KKEY
+Thorus/Othalla/402.872/VGTQ
+Thorus/Othalla/601.684/NSYJ
+Thorus/Othalla/97.526/TOLY
+Thorus/Othalla/98.367/BHFT
+Thorus/Othalla/98.367/SFOT
+Thorus/Othalla/278.934/IYAI
+Dr-Rush/Wing Lantienne/16.012/ZCIT
+SWAT Killer/Grand Empire Arkonide/12.594/WDTM
+Thorus/Othalla/291.470/PFWJ
+Thorus/Othalla/108.594/FRXN
+Thorus/Othalla/110.502/QRDO
+Thorus/Othalla/118.760/CTQV
+Thorus/Othalla/122.143/CQRI
+Thorus/Othalla/668.299/EVWX
+Thorus/Othalla/652.291/AJHU
+Thorus/Othalla/467.754/IBXG
+Dr-Rush/Wing Lantienne/62.538/DIVV
+Thorus/Othalla/469.649/URFQ
+Alkotest/Divinity Angels/19.067/YJMI
+Thorus/Othalla/503.687/GVQJ
+Thorus/Othalla/506.340/WNPP
+Thorus/Othalla/822.867/OOUU
+FEL1NE/TIGRESetDRAGONS/326.490/RDRG
+-Legion-/Alliance Fornoxienne/106.450/LOIF
+Warclat/Dark-Hunter/248.793/NEHP
+DASSIUS/Forces Liberatrices Intergalactique/417.720/DQGU
+DASSIUS/Forces Liberatrices Intergalactique/494.909/RBDS
+//0/WJGP
+SWAT Killer/Divinity Angels/196/IAVJ
+DASSIUS/Forces Liberatrices Intergalactique/295.201/SZOB
+Thorus/Othalla/55.124/VNDJ
+DASSIUS/Forces Liberatrices Intergalactique/445.615/SMNY
+DASSIUS/Forces Liberatrices Intergalactique/355.683/WZMR
+-Legion-/Alliance Fornoxienne/256.302/CQZI
+Hans Schultz/PSER/259.582/IBKR
+DASSIUS/Forces Liberatrices Intergalactique/1.055.135/ASSC
+freelancer/COOLassassin/341.508/JIUU
+DASSIUS/Forces Liberatrices Intergalactique/1.433.971/WXCW
+Mythix//156.677/PYAS
+-Soska-/Les Titans/137.029/CKTB
+Mythix//24.737/NUZW
+migli/Phenix Reborn/792.042/FUGO
+migli/Phenix Reborn/330.896/YJND
+DASSIUS/Forces Liberatrices Intergalactique/540.492/RGVD
+DASSIUS/Forces Liberatrices Intergalactique/520.324/QREB
+Freelancer/PSER/3.245/MWBN
+Frank-Castle/Alone Mais Pas Vraiment/154.747/CHHR
+DASSIUS/Forces Liberatrices Intergalactique/2.023.508/OHLS
+Thorus/Othalla/69.765/SCFN
+Thorus/Othalla/81.711/UPXV
+lacrapule/Shaytans Retraite/590/MJJA
+bamor/La Revanches Des Anciens /26.538/RFEM
+-Nott-//246.714/UAWX
+Hans Schultz/PSER/594.624/NIQA
+-Nott-//312.929/PUNN
+-Nott-//552.279/PUGW
+Hans Schultz/PSER/537.200/DNQA
+Hans Schultz/PSER/347.571/HOVW
+Hans Schultz/PSER/1.373.313/WBKV
+freelancer/COOLassassin/42.202/SHNQ
+Horgh/Orilla/99.547/VMFY
+B3njiman--/Les Loups de Fenris/825.901/MZHG
+FricaDelle/La Revanches Des Anciens /2.851/TENX
+FricaDelle/La Revanches Des Anciens /9.625/VDRI
+DASSIUS/Forces Liberatrices Intergalactique/539.460/KKXD
+FricaDelle/La Revanches Des Anciens /10.571/TECA
+FricaDelle/La Revanches Des Anciens /45.406/GPHO
+bamor/La Revanches Des Anciens /43.744/DIBR
+FricaDelle/La Revanches Des Anciens /11.785/KLAA
+Mirvin/Shaytan Pause/16.849/AHMG
+arbiter73/Space Wolves DeStroyeR/1.093.686/AQDI
+Gold D Roger/La Revanches Des Anciens /74.690/PKFG
+bamor/La Revanches Des Anciens /37.303/JZVU
+-Nott-//430.665/KFLN
+-laperuche-/Necromonger/630/UFPZ
+FricaDelle/La Revanches Des Anciens /40.099/DXFR
+-Nott-//671.075/ZWCV
+Gold D Roger/La Revanches Des Anciens /105.595/RKPS
+-Nott-//991.516/HTTG
+-Nott-//1.638.588/VEQA
+//0/NQXR
+FricaDelle/La Revanches Des Anciens /49.269/GKFY
+DASSIUS/Forces Liberatrices Intergalactique/945.932/CYMW
+Horgh/Orilla/99.547/AIJQ
+Warclat/LA MARIO /144.878/MXLL
+bamor/La Revanches Des Anciens /105.663/RAVW
+DASSIUS/Forces Liberatrices Intergalactique/1.515.505/BTKN
+FricaDelle/La Revanches Des Anciens /53.718/WNVE
+Frank-Castle/Alone Mais Pas Vraiment/183.792/JHLQ
+Gold D Roger/La Revanches Des Anciens /164.916/EUUA
+bamor/La Revanches Des Anciens /215.308/ZUOY
+Thorus/Othalla/218.492/WCLU
+-Nott-//848.957/ADSD
+Mirvin/Vacances/518.686/YNUC
+-Nott-//1.264.551/WJRE
+-Nott-//1.342.385/CDNG
+Hans Schultz/PSER/1.202.347/WOII
+DASSIUS/Forces Liberatrices Intergalactique/560.025/PADJ
+Gold D Roger/La Revanches Des Anciens /85.928/DCJN
+Gold D Roger/La Revanches Des Anciens /43.598/EJHL
+Hans Schultz/PSER/508.512/IRRP
+Mirvin/Vacances/429.617/JOEB
+Gold D Roger/La Revanches Des Anciens /96.410/TVIT
+FricaDelle/La Revanches Des Anciens /22.835/WDTF
+FEL1NE/TIGRESetDRAGONS/29.810/VAUE
+DASSIUS/Forces Liberatrices Intergalactique/852.653/UDJR
+bamor/La Revanches Des Anciens /215.308/HNRV
+Mirvin/Vacances/1.465.838/QLHK
+DASSIUS/Forces Liberatrices Intergalactique/744.463/ISET
+FricaDelle/La Revanches Des Anciens /32.007/QLII
+Wishmaster/Othalla/449.754/JRJR
+FricaDelle/La Revanches Des Anciens /29.419/LSCG
+DASSIUS/Forces Liberatrices Intergalactique/941.731/GETM
+DASSIUS/Forces Liberatrices Intergalactique/719.539/XJAB
+Warclat/LA MARIO /369.563/DHXU
+Wishmaster/Othalla/687.944/NLYE
+Volktair/Forces Liberatrices Intergalactique/203.940/QLEF
+Xtrem47/Bene Tleilax/39/HHHU
+Xtrem47/Bene Tleilax/1.443/LQBX
+FricaDelle/La Revanches Des Anciens /29.419/EJVV
+FEL1NE/Les Loups de Fenris/218.394/MOFN
+arbiter73/Space Wolves DeStroyeR/2.501.166/WUNY
+FEL1NE/Les Loups de Fenris/47.833/ROWS
+Frank-Castle/Alone Mais Pas Vraiment/270.627/ORAX
+Hans Schultz/PSER/814.637/JYHG
+DASSIUS/Forces Liberatrices Intergalactique/267.128/OEKA
+Wishmaster/Othalla/306.513/GLOR
+Wishmaster/Othalla/1.096.375/APZV
+-Legion-/Alliance Fornoxienne/366.403/OQNG
+DASSIUS/Forces Liberatrices Intergalactique/1.489.784/JGGG
+Gold D Roger/La Revanches Des Anciens /239.729/HIEC
+Gold D Roger/La Revanches Des Anciens /227.196/RKWY
+Gold D Roger/La Revanches Des Anciens /274.463/MVRF
+Gold D Roger/La Revanches Des Anciens /171.328/WUOR
+-Nurzak-/-Vendetta-/87.411/WMZR
+Le Serbe//7.676/RLHX
+-Nilek-/Les Loups de Fenris/134.049/KFMG
+DASSIUS/Forces Liberatrices Intergalactique/1.608.838/VJNT
+Ero Sennin/Les Titans/1.806.579/PGXC
+-Legion-/Alliance Fornoxienne/207.611/JOIR
+DASSIUS/Forces Liberatrices Intergalactique/2.166.744/ETGS
+Thorus/Othalla/240.553/GWGI
+DASSIUS/Forces Liberatrices Intergalactique/1.692.788/EKYR
+DASSIUS/Forces Liberatrices Intergalactique/2.924.424/BXBC
+Thorus/Othalla/294.715/YPAM
+Jack0Neill//3.905/EKQF
+Frank-Castle/Alone Mais Pas Vraiment/13.669/DLDF
+Emeraldas//644.760/TPDN
+DASSIUS/Forces Liberatrices Intergalactique/1.596.647/JIWR
+DASSIUS/Forces Liberatrices Intergalactique/3.676.567/KHDZ
+-Legion-/Alliance Fornoxienne/63.441/UPLB
+--colibri--/La Revanches Des Anciens /27.478/JXAR
+Wishmaster/Othalla/291.147/UERR
+-Nurzak-/-Vendetta-/4.343/CRSV
+Wishmaster/Othalla/659.989/CJVF
+Wishmaster/Othalla/665.689/DYHX
+DASSIUS/Forces Liberatrices Intergalactique/748.065/UPOM
+--colibri--/La Revanches Des Anciens /67.910/NYBF
+DASSIUS/Forces Liberatrices Intergalactique/371.132/LROU
+Warclat/LA MARIO /470.547/JJOJ
+FricaDelle/La Revanches Des Anciens /378.865/SJKN
+Shepard-N7/Dark Project/218.225/PBUI
+Shepard-N7/Dark Project/218.225/ZLON
+-Legion-/Alliance Fornoxienne/213.950/GDRN
+DeTonaTion/Forces Liberatrices Intergalactique/757.733/QUGH
+DASSIUS/Forces Liberatrices Intergalactique/514.353/PBIX
+Thorus/Othalla/155.812/PPEP
+Thorus/Othalla/155.812/QDAV
+rexus/Les Pacifistes/399.413/ERGG
+Thorus/Othalla/279.302/QVDR
+Thorus/Othalla/281.744/DTMA
+xDavy Jonesx [The/WolF RiDeRs/579.705/WQPE
+Thorus/Othalla/294.934/UDMG
+Thorus/Othalla/387.411/HSBD
+Wishmaster/Othalla/686.576/MDQE
+Wishmaster/Othalla/686.576/MEJH
+flash44/La guilde des scientifiques/237.398/PBGC
+rexus/Les Pacifistes/528.158/PVMF
+xDavy Jonesx [The/WolF RiDeRs/409.411/GPQY
+--colibri--/La Revanches Des Anciens /54.755/BHAU
+-laperuche-/Necromonger/170.443/TJHK
+Yullacib//114.938/XWSS
+DASSIUS/Forces Liberatrices Intergalactique/4.327.942/WDKN
+-gorth-/Divinity Angels/8.861/GDPK
+FricaDelle/La Revanches Des Anciens /36.807/TDNL
+--colibri--/La Revanches Des Anciens /105.598/MLEK
+DASSIUS/Forces Liberatrices Intergalactique/2.439.568/YHKU
+DASSIUS/Forces Liberatrices Intergalactique/2.966.475/JHMX
+DASSIUS/Forces Liberatrices Intergalactique/2.966.475/WNIG
+DASSIUS/Forces Liberatrices Intergalactique/1.638.089/LCGP
+DASSIUS/Forces Liberatrices Intergalactique/2.041.616/ORWY
+DASSIUS/Forces Liberatrices Intergalactique/2.113.315/MGXN
+FricaDelle/La Revanches Des Anciens /31.073/RUSY
+--colibri--/La Revanches Des Anciens /96.478/KKII
+DASSIUS/Forces Liberatrices Intergalactique/792.369/FPQZ
+DASSIUS/Forces Liberatrices Intergalactique/1.057.701/VOPD
+Warclat/LA MARIO /224.670/AWQG
+SWAT Killer/Divinity Angels/100.489/VGGM
+SWAT Killer/Divinity Angels/516.707/EUVE
+FEL1NE/Phenix Reborn/279.249/YWNN
+Warclat/LA MARIO /224.670/DREO
+FEL1NE/TIGRESetDRAGONS/556.900/FONT
+--colibri--/La Revanches Des Anciens /11.373/IQCK
+-Nilek-/Les Loups de Fenris/175.975/OCBS
+-Nilek-/Les Loups de Fenris/296.900/XWQX
+Hermione/Dragon-s Univers/1.243.611/ZHYZ
+Horgh/Orilla/192.653/HPXK
+Horgh/Orilla/339.018/HYYV
+Horgh/Orilla/1.506.473/ORVC
+-gorth-/Divinity Angels/11.659/TQUF
+Warclat/LA MARIO /479.867/GAGW
+Wishmaster/Othalla/354.204/WCIH
+NEphysta//60.981/SHSY
+Warclat/LA MARIO /328.255/SBRT
+Horgh/Orilla/130.295/CEAO
+DASSIUS/Forces Liberatrices Intergalactique/565.052/KYCH
+Warclat/LA MARIO /160.402/LIIH
+--colibri--/La Revanches Des Anciens /294.009/XKJV
+Wishmaster/Othalla/222.620/IKEH
+bob0987//37.752/ITUH
+Warclat/LA MARIO /319.032/RPAB
+Hermione/Dragon-s Univers/247.525/IROI
+DASSIUS/Forces Liberatrices Intergalactique/174.973/ZUZD
+DASSIUS/Forces Liberatrices Intergalactique/176.610/QAQC
+--colibri--/La Revanches Des Anciens /128.163/FQQG
+Warclat/LA MARIO /319.032/NVLP
+Warclat/LA MARIO /202.417/GULZ
+xDavy Jonesx [The/WolF RiDeRs/883.831/GTNP
+Warclat/LA MARIO /224.600/WTCI
+DASSIUS/Forces Liberatrices Intergalactique/1.444.907/RUSF
+-Nurzak-/-Vendetta-/486.171/IEXK
+mickael/Orilla/3.463/JBMY
+--colibri--/La Revanches Des Anciens /69.608/IDXU
+DASSIUS/Forces Liberatrices Intergalactique/1.653.756/MGXD
+DASSIUS/Forces Liberatrices Intergalactique/825.538/IOWD
+Warclat/LA MARIO /359.872/VMUA
+-Legion-/Alliance Fornoxienne/275.283/CQUX
+flash44/La guilde des scientifiques/182.115/TKQR
+B3njiman--/Les Loups de Fenris/1.736.719/DZZD
+DASSIUS/Forces Liberatrices Intergalactique/1.621.862/PYHN
+-Legion-/Alliance Fornoxienne/28.560/OGCW
+B3njiman--/Les Loups de Fenris/1.183.263/SKLS
+FEL1NE/Phenix Reborn/67.064/VIXK
+rexus/Les Pacifistes/28.391/DVFL
+arbiter73/Space Wolves DeStroyeR/38.882/FTUA
+-Nilek-/Les Loups de Fenris/332.679/XNTW
+Freelancer/PSER/457.399/TLKV
+-Nurzak-/-Vendetta-/205.313/CVNK
+Warclat/LA MARIO /177.870/EHOE
+--colibri--/La Revanches Des Anciens /346.557/FQGH
+Warclat/LA MARIO /194.152/ANZR
+SWAT Killer/Wing Lantienne/175.204/OPGE
+Mirvin/Shaytans/236.568/DELE
+Mirvin/Shaytans/361.027/JDNV
+DASSIUS/Forces Liberatrices Intergalactique/1.823.298/FIVI
+lacrapule/LA MARIO /91.883/PZCG
+--colibri--/La Revanches Des Anciens /190.089/DWRL
+Mirvin/Shaytans/499.647/RXIC
+Mirvin/Shaytans/499.647/IAOM
+Mirvin/Shaytans/1.020.616/GWCO
+SWAT Killer/Wing Lantienne/11.185/TDOP
+Warclat/LA MARIO /192.751/BWQK
+Mirvin/Shaytans/608.685/YYCO
+DASSIUS/Forces Liberatrices Intergalactique/1.773.279/VTSA
+SWAT Killer/Wing Lantienne/12.111/FXIH
+FEL1NE/TIGRESetDRAGONS/456.007/LFXZ
+FEL1NE/TIGRESetDRAGONS/651.485/UXTZ
+FEL1NE/TIGRESetDRAGONS/47.266/YIUY
+FEL1NE/TIGRESetDRAGONS/47.266/ZHCS
+FEL1NE/TIGRESetDRAGONS/744.544/BJKY
+DASSIUS/Forces Liberatrices Intergalactique/1.500.253/UFFB
+DASSIUS/Forces Liberatrices Intergalactique/2.881.965/TKUR
+Mirvin/Shaytans/608.685/OORQ
+DASSIUS/Forces Liberatrices Intergalactique/1.151.849/VTQB
+Wishmaster/Othalla/1.206.303/JYTK
+DASSIUS/Forces Liberatrices Intergalactique/930.811/ZRAO
+adalta/Ultime Ascension/592.578/VZCX
+--colibri--/La Revanches Des Anciens /679.017/ANZM
+FEL1NE/TIGRESetDRAGONS/947.528/IOFV
+Helia/Les News/557.097/HKVI
+DASSIUS/Forces Liberatrices Intergalactique/948.092/JPOA
+Mirvin/Shaytans/888.815/OMXX
+lancien07/-SKULLS-/675.070/AQTC
+Mirvin/Shaytans/904.920/GJDF
+Thorus/Othalla/579.728/SKHR
+Thorus/Othalla/653.286/PMWU
+-Legion-/Alliance Fornoxienne/137.059/JPUN
+Mirvin/Shaytans/1.765.755/PYJJ
+DASSIUS/Forces Liberatrices Intergalactique/1.801.684/GZEK
+Mirvin/Shaytans/1.765.755/NNNR
+Mirvin/Shaytans/298.329/DNYF
+Freelancer/PSER/137.118/IQVN
+Volktair/Forces Liberatrices Intergalactique/5.424.088/EBMO
+Mirvin/Shaytans/20.755/DVCE
+Volktair/Forces Liberatrices Intergalactique/5.424.088/UTAQ
+guardians/La Releve/272/DVBB
+HERCULE/Phenix Reborn/72.523/SYTV
+leel/PSER/2.817.312/NQDB
+Freelancer/PSER/216.737/DEGS
+Col sheparde [Republique Galactique/Renaissance/610/KIIU
+freelancer/COOLassassin/244.362/XHMG
+B3njiman--/Les Loups de Fenris/1.651.684/SBQF
+freelancer/COOLassassin/414.631/GXKJ
+Freelancer/PSER/43.703/AIPK
+B3njiman--/Les Loups de Fenris/1.020.196/EMPM
+B3njiman--/Les Loups de Fenris/1.279.669/ERTK
+Horgh/Orilla/107.349/AERK
+Mirvin/Shaytans/1.388.109/QFCE
+Mythix//17.910/EWGR
+--colibri--/La Revanches Des Anciens /552.032/WVKI
+Volktair/Forces Liberatrices Intergalactique/379.731/WZJU
+sniperkevin/Mario bros 1/314.689/APSW
+sniperkevin/Mario bros 1/766.203/LJDR
+sniperkevin/Mario bros 1/766.203/PLMM
+Col sheparde [Republique Galactique/Renaissance/22.939/DYVH
+guardians/La Releve/400/HPGT
+-Nott-/Academie Stellaire Republicaine/2.283/SSNI
+Hans Schultz/PSER/254.642/RTOT
+Hans Schultz/PSER/1.046.448/BUJA
+Mirvin/Shaytans/6.811/MSFL
+bob0987/La Releve/2.072.001/SXAE
+sniperkevin/Mario bros 1/971.812/WSGC
+Mirvin/Shaytans/73.323/FIRC
+Mirvin/Shaytans/104.069/FQMY
+Pentacle//1.373/UTZV
+Mirvin/Shaytans/183.309/NBWJ
+Mirvin/Shaytans/195.561/TIPM
+Hans Schultz/PSER/372.302/JTDZ
+Hans Schultz/PSER/1.538.746/FUQJ
+Mirvin/Shaytans/189.647/MBXG
+Mirvin/Shaytans/255.146/OXJE
+moudgus//4.969/PUAS
+-Nott-/Academie Stellaire Republicaine/1.287/AXOG
+moudgus//44.416/ILUG
+freelancer/COOLassassin/605.546/WBLK
+freelancer/COOLassassin/418.045/GTGJ
+freelancer/COOLassassin/1.065.024/JKDQ
+Warclat/LA MARIO /3.018.339/VCXW
+freelancer/COOLassassin/840.362/JEHV
+bob0987/La Releve/2.072.001/TUAB
+bob0987/La Releve/1.263.565/YBVO
+bob0987/La Releve/2.798.193/BAPU
+bob0987/La Releve/260.326/XHSB
+-Nott-/Academie Stellaire Republicaine/4.205/JNHO
+Rak nor/Academie Stellaire Republicaine/1.239/TYWE
+Rak nor/Academie Stellaire Republicaine/1.416/YSQV
+Rak nor/Academie Stellaire Republicaine/1.547/ARGI
+Rak nor/Academie Stellaire Republicaine/1.708/MOLW
+Warclat/LA MARIO /1.123.724/UFTD
+bob0987/La Releve/2.798.193/DQPV
+bob0987/La Releve/2.798.193/WXFR
+Raspoutine/Les Backstreets Boys/1/RDYA
+bob0987/La Releve/96.269/QZIL
+Raspoutine/Les Backstreets Boys/3/PAAR
+Raspoutine/Les Backstreets Boys/8/MMPJ
+Raspoutine/Les Backstreets Boys/59/FXIG
+Red Skull/Les Biffleurs/18/SYJI
+Col sheparde [Republique Galactique/Renaissance/1.957/VZNY
+Raspoutine/Les Backstreets Boys/95/WWYE
+Raspoutine/Les Backstreets Boys/37/PUVO
+//0/DELP
+GayRiders//12/CZJM
+-Legion-/Alliance Fornoxienne/17.720/BRHU
+lokiju665/Les enfants de Meldart/9/QGPH
+cymoril/-GhoSt RiDeRs-/1/QVZP
+lokiju665/Les enfants de Meldart/4/GYTY
+cymoril/-GhoSt RiDeRs-/4/NPCO
+GayRiders/Want A New Team/173/TKZK
+BadScyller/-RA-/2.382/XXSB
+BadScyller/-RA-/1.039.098/KTHD
+sauvage//1.158/XLIZ
+GayRiders/Want A New Team/186/EOYC
+//0/PJWX
+sauvage//1.665/DCGV
+sauvage//1.956/NGBG
+sauvage//2.312/ZYHP
+sauvage//2.851/KLLA
+PacMan/- Enjoy to Raid -/46/AACG
+cymoril/-GhoSt RiDeRs-/2/IGCG
+--colibri--/La Revanches Des Anciens /30.655/PQAJ
+--colibri--/La Revanches Des Anciens /83.338/SXTW
+lokiju665/Les enfants de Meldart/24/KXQY
+bob0987/La Releve/96.269/ZOZY
+GayRiders/Want A New Team/213/EFOR
+sauvage//2.003/GNIY
+sauvage//1.972/GHOG
+sauvage//3.912/ATPD
+sauvage//4.127/UYRZ
+sauvage//4.440/RFXT
+sauvage//4.192/IKCD
+sauvage//4.941/CMJZ
+sauvage//5.953/SULK
+sauvage//6.170/WZVS
+sauvage//6.527/ZAWW
+sauvage//7.109/FQAT
+sauvage//7.169/WZOM
+sauvage//7.416/DEWV
+sauvage//54.528/AGLS
+sauvage//59.163/WXIO
+//0/NJWN
+Red Skull/Les Biffleurs/26/WRKW
+Warclat/LA MARIO /598.444/CFWL
+Red Skull//12/YHVZ
+GayRiders/Want A New Team/245/NWUW
+helfaust/CSNU/22/CWBZ
+GayRiders/Want A New Team/85/CODN
+arbiter73/Space Wolves DeStroyeR/366.764/KNLW
+Mirvin/Shaytans/506.322/ZDCL
+cymoril/-GhoSt RiDeRs-/50/CBBZ
+cymoril/-GhoSt RiDeRs-/48/FMBN
+GayRiders/Want A New Team/710/OBVT
+//0/FAWF
+Mazumi/-EDW-/121.458/TDXD
+cymoril/-GhoSt RiDeRs-/7/IQXG
+Mule-Tee/-GhoSt RiDeRs-/38/SFZX
+Mule-Tee/-GhoSt RiDeRs-/7/LHBA
+juju9302/Facultee DeStroyeR/113.415/GCWX
+nergal/Hell STaR/54/RINV
+Hermione/Dragon-s Univers/5.830.064/USIO
+Hermione/Dragon-s Univers/4.248.548/KLJL
+--colibri--/La Revanches Des Anciens /30.505/KTZX
+nergal/Hell STaR/62/OSRO
+nergal/Hell STaR/62/FOLS
+GayRiders/Want A New Team/385/XQAD
+Red Skull//183/OEAA
+Red Skull/Want A New Team/264/JEOE
+Red Skull/Want A New Team/215/BTGL
+arbiter73/Space Wolves DeStroyeR/237.836/THHM
+Muad Dib/Divinity Angels/9.921/GGCU
+Le Serbe//164.521/IFIU
+cymoril/-GhoSt RiDeRs-/9/QUUX
+arbiter73/Space Wolves DeStroyeR/121.209/PKXC
+BadScyller/-RA-/1.014.687/MUDB
+BadScyller/-RA-/1.038.600/XTFM
+BadScyller/-RA-/1.635.455/WVRK
+juju9302/Facultee DeStroyeR/138.753/OBNU
+nergal/Hell STaR/210/ZKWI
+Mule-Tee/-GhoSt RiDeRs-/88/NBVN
+Mirvin/Shaytans/23.184/MWFW
+Mirvin/Shaytans/3.031.259/MKTN
+Mirvin/Shaytans/3.538.694/PGZW
+absolutik/Orilla/3.197/SAIU
+Mirvin/Shaytans/3.638.465/ZNYO
+Red Skull/Want A New Team/434/ECJF
+-final-/Ultime Ascension/991.101/VVZL
+-final-/Ultime Ascension/2.348.742/QCNG
+DASSIUS/Forces Liberatrices Intergalactique/1.419.185/PMFD
+Darck Angel//7.303/UVNO
+Darck Angel//7.767/LYZY
+Red Skull/Want A New Team/105/XJPP
+Warclat/LA MARIO /492.662/FZMR
+Mythix//20.876/HPXJ
+juju9302/akatsuki/40/DLNJ
+Mythix//42.478/DGKM
+Darkredos/Les Backstreets Boys/167/USFP
+DASSIUS/Forces Liberatrices Intergalactique/679.637/ZZMK
+DASSIUS/Forces Liberatrices Intergalactique/1.025.352/JNOA
+Horgh/Orilla/34.097/OEVU
+DIAMON/Hell STaR/201/LJMK
+guardians/La Releve/545/FCCZ
+Mule-Tee/-GhoSt RiDeRs-/12/JLQB
+xDavy Jonesx [The/WolF RiDeRs/592.451/SEHL
+dark angel/WANTEDw/249/AOLV
+Red Skull/Want A New Team/133/MWWI
+dark angel/WANTEDw/235/KPXU
+gandalf/Les Anciens Dieux/802.267/UVMC
+Hermione/Dragon-s Univers/7.545.894/LQNV
+-BaronSamdi-/Les Barons/442/UFKZ
+gandalf/Les Anciens Dieux/2.294.486/ZDLM
+Mule-Tee/-GhoSt RiDeRs-/12/FIYQ
+helfaust/CSNU/199/WUND
+freelancer/COOLassassin/1.547.444/ATQP
+-BaronSamdi-/Les Barons/1.992/VGBY
+Warclat/LA MARIO /216.879/NGBJ
+-BaronSamdi-/Les Barons/596/AGSD
+Mirvin/Shaytans/565.623/PJXT
+lancien07/-SKULLS-/999.596/SJYD
+Alko Leek/Divinity Angels/70.517/EUGT
+-alryc-//35.684/BQFG
+-BaronSamdi-/Les Barons/1.385/GWIK
+SWAT Killer/Alliance des Anciens/141.636/DTWD
+-BaronSamdi-/Les Barons/1.726/ENRV
+ANGEFEL1NE/Phenix Reborn/731.905/KTJK
+Alko Leek/Divinity Angels/54.123/TCLF
+-Nott-/Academie Stellaire Republicaine/5.728/WGOW
+-Nott-/Academie Stellaire Republicaine/6.585/LDBR
+Alko Leek/Divinity Angels/120.166/ZTCY
+-BaronSamdi-/Les Barons/410/PIVK
+-BaronSamdi-/Les Barons/257/KLXA
+juju9302/Facultee DeStroyeR/17.901/XBFX
+GayRiders/Want A New Team/937/ZRYZ
+-BaronSamdi-/Les Barons/84/KEDH
+-BaronSamdi-/Les Barons/1.506/TJFC
+moudgus//11.964/IZZF
+Warclat/LA MARIO /1.232.322/FZWB
+Alko Leek/Angels Wing/89.751/DKKA
+Red Skull/Want A New Team/483/JNCS
+mickael/Orilla/668.862/TVKO
+dark angel/WANTEDw/142/BQFC
+-BaronSamdi-/Les Barons/1.293/QQCB
+-BaronSamdi-/Les Barons/1.119/CLTS
+B3njiman--/Les Loups de Fenris/2.058.035/CMYE
+Warclat/LA MARIO /485.069/WPVO
+mickael/Orilla/558.645/MHUU
+mickael/Orilla/719.567/JJIJ
+Alko Leek/Divinity Angels/76.166/YMHW
+Alko Leek/Divinity Angels/71.540/FFBX
+-BaronSamdi-/Les Barons/416/EPUM
+-BaronSamdi-/Les Barons/1.154/RWUA
+Gold D Roger/La Revanches Des Anciens /77.557/WSKQ
+Nilek/SAMOURAI/181/ZMQT
+-BaronSamdi-/Les Barons/663/NVQE
+-BaronSamdi-/Les Barons/1.020/SERP
+Warclat/LA MARIO /299.245/JUBH
+DASSIUS/Forces Liberatrices Intergalactique/10.530.568/TUZY
+DASSIUS/Forces Liberatrices Intergalactique/5.924.968/TVGH
+-BaronSamdi-/Les Barons/2.045/AOMT
+azerty1992/TeamFusion/368.699/XOVQ
+Darck Angel//6.298/XSYO
+-BaronSamdi-/Les Barons/3.113/DOSA
+Red Skull/Want A New Team/1.255/JGNY
+dark angel/WANTEDw/183/FXLE
+Darck Angel//3.417/LDUR
+//0/KFUG
+leel/PSER/1.199.914/VDJK
+leel/PSER/1.676.637/SKKV
+xDavy Jonesx [The/WolF RiDeRs/785.999/FHNF
+-BaronSamdi-/Les Barons/1.140/FEFH
+-BaronSamdi-/Les Barons/2.955/BYXT
+mickael/Orilla/44.438/RJAO
+cymoril/-GhoSt RiDeRs-/162/WLCC
+bamor//129.184/ANEH
+-BaronSamdi-/Les Barons/2.069/TNXK
+-BaronSamdi-/Les Barons/1.259/WDYW
+Red Skull/Want A New Team/624/JAEN
+//0/IRYC
+mickael/Orilla/56.351/XILA
+Warclat/LA MARIO /547.650/BGZW
+//0/ZIPU
+-BaronSamdi-/Les Barons/1.307/EOCD
+-BaronSamdi-/Les Barons/1.036/MIGU
+Darck Angel//7.162/AGWJ
+-BaronSamdi-/Les Barons/1.038/YIGP
+Darck Angel//7.162/MPTZ
+-BaronSamdi-/Les Barons/2.989/DXBI
+-BaronSamdi-/Les Barons/2.194/DHOW
+DASSIUS/Forces Liberatrices Intergalactique/2.958.441/QDSJ
+BadScyller/-RA-/1.006.271/VMRB
+DASSIUS/Forces Liberatrices Intergalactique/2.513.441/PHGB
+Wishmaster/Othalla/597.979/QVLO
+DIAMON/SAMOURAI/480/GHQW
+DIAMON/SAMOURAI/480/OYYC
+-BaronSamdi-/Les Barons/978/DCUS
+-BaronSamdi-/Les Barons/729/YGNZ
+FricaDelle/La Revenche Des Anciens/979.185/HFAE
+creed//456.917/CMRK
+creed//507.953/MPAG
+barbariuss/La Releve/15.275/DWJI
+barbariuss/La Releve/37.800/DBQN
+barbariuss/La Releve/74.566/NOOQ
+mickael/Orilla/56.351/CNVW
+DASSIUS/Forces Liberatrices Intergalactique/1.543.080/ZLGY
+-BaronSamdi-/Les Barons/474/RDAA
+DASSIUS/Forces Liberatrices Intergalactique/2.280.849/QHEF
+-BaronSamdi-/Les Barons/953/DJYY
+freelancer/COOLassassin/300.764/UHKY
+-BaronSamdi-/Les Barons/1.028/ZHYF
+barbariuss/La Releve/827.583/ALCV
+-BaronSamdi-/Les Barons/1.703/QWSM
+barbariuss/La Releve/627.761/RAMP
+barbariuss/La Releve/1.695.537/DVSK
+barbariuss/La Releve/1.470.504/ZCOX
+-BaronSamdi-/Les Barons/1.868/HKKI
+barbariuss/La Releve/989.253/AFJY
+barbariuss/La Releve/1.573.772/IPKR
+barbariuss/La Releve/1.026.684/TMVX
+barbariuss/La Releve/1.556.468/EPXX
+-BaronSamdi-/Les Barons/2.282/OZLY
+Warclat/LA MARIO /1.329.943/DTYH
+snoopywar/The Brotherhood/178/CQOT
+Warclat/LA MARIO /1.765.277/YTGP
+DASSIUS/Forces Liberatrices Intergalactique/4.499.872/MGXF
+-BaronSamdi-/Les Barons/1.073/DKSE
+Mirvin/Shaytans/530.147/ROBS
+-BaronSamdi-/Les Barons/1.637/CVPD
+barbariuss/La Releve/786.558/NQCY
+-BaronSamdi-/Les Barons/2.541/DHLU
+-BaronSamdi-/Les Barons/3.210/CYTZ
+mickael/Orilla/90.015/DEJL
+mickael/Orilla/450.135/IIKE
+-BaronSamdi-/Les Barons/2.766/ZVRI
+Warclat/LA MARIO /1.009.473/FWHO
+Mirvin/Shaytans/713.271/GMTH
+DASSIUS/Forces Liberatrices Intergalactique/1.890.675/ZCLJ
+-BaronSamdi-/Les Barons/5.011/MUUI
+Red Skull/Want A New Team/1.335/VSEX
+DIAMON/SAMOURAI/501/OTAB
+-BaronSamdi-/Les Barons/1.754/CKHY
+-BaronSamdi-/Les Barons/1.905/EHUS
+-BaronSamdi-/Les Barons/5.661/BFHD
+DASSIUS/Forces Liberatrices Intergalactique/2.779.094/LCXN
+Warclat/LA MARIO /864.425/CTQU
+Warclat/LA MARIO /2.628.334/GYTB
+DASSIUS/Forces Liberatrices Intergalactique/717.660/CTKN
+-BaronSamdi-/Les Barons/1.232/QFJF
+-BaronSamdi-/Les Barons/1.232/TYHS
+-BaronSamdi-/Les Barons/1.607/IFRV
+Warclat/LA MARIO /1.296.579/TZJB
+leel/PSER/1.154.952/EGJN
+fouinoudu15//5.231/MRXZ
+-THeMoWer-//28.257/HCEC
+-BaronSamdi-/Les Barons/3.423/FZMI
+-BaronSamdi-/Les Barons/6.468/JNSA
+-BaronSamdi-/Les Barons/1.749/DZJY
+-BaronSamdi-/Les Barons/3.729/IHMQ
+-BaronSamdi-/Les Barons/1.998/GJTG
+Col sheparde [Republique Galactique/Renaissance/10.179/YVNE
+DASSIUS/Forces Liberatrices Intergalactique/2.612.111/PQKO
+DASSIUS/Forces Liberatrices Intergalactique/1.721.962/AXKQ
+-BaronSamdi-/Les Barons/1.863/FYPM
+-BaronSamdi-/Les Barons/2.592/JDDU
+-BaronSamdi-/Les Barons/1.280/EBKM
+-alryc-/Wraiith Geniuses/31.792/PKEA
+DASSIUS/Forces Liberatrices Intergalactique/704.090/DJZO
+-gorth-/RaPeToU/23.537/VPDO
+-BaronSamdi-/Les Barons/9.321/GISZ
+DASSIUS/Forces Liberatrices Intergalactique/1.050.157/LXST
+-BaronSamdi-/Les Barons/12.040/FRSH
+Warclat/LA MARIO /1.307.605/YAZN
+-BaronSamdi-/Les Barons/15.467/BYYH
+DASSIUS/Forces Liberatrices Intergalactique/1.464.359/VLZF
+-BaronSamdi-/Les Barons/6.340/MFUW
+-BaronSamdi-/Les Barons/19.761/ZPTL
+-BaronSamdi-/Les Barons/13.007/WSBY
+Darkredos/The Young Brother/513/YSNA
+-BaronSamdi-/Les Barons/2.940/OYBM
+-BaronSamdi-/Les Barons/5.660/RVLS
+-Nao-/-GhoSt RiDeRs-/128.746/QVTP
+mickael/Orilla/56.351/DXMB
+Red Skull/Want A New Team/2.205/SDAQ
+Red Skull/Want A New Team/2.769/XUKN
+DASSIUS/Forces Liberatrices Intergalactique/519.230/IFBY
+FEL1NE/TIGRESetDRAGONS/18.931/JFZD
+xDavy Jonesx/HeReTiC/657.446/UATA
+DASSIUS/Forces Liberatrices Intergalactique/994.312/MQPF
+- Spy -/HeReTiC/2.095.427/SKSG
+DASSIUS/Forces Liberatrices Intergalactique/4.423.198/VZVO
+Darkredos/The Young Brother/923/INQB
+juju9302/akatsuki formation/30/GQYF
+juju9302/akatsuki formation/45/CTQY
+Col sheparde [Republique Galactique/Renaissance/43.017/RICM
+Alko Leek/Knight of Death/528/TEYT
+Alko Leek/Knight of Death/528/RRTK
+Mirvin/Shaytans/89.438/GYQU
+Mirvin/Shaytans/52.362/VTDE
+Hermione/Dragon-s Univers/186.058/AULQ
+FEL1NE//627.111/YWUU
+Xilo/Force Independance/2.520/OGTE
+FEL1NE//468.352/QUXE
+Nilek/SAMOURAI/1.263/PZJF
+Nilek/SAMOURAI/1.484/SXMO
+Tinker Bell/FaiRy Tail/1.479/TQUS
+BadScyller/PSER/705.155/GDZB
+Escaflowne/Ultime Ascension/1.459.804/DDAZ
+Escaflowne/Ultime Ascension/1.899.612/UIZR
+Eldinf//63.227/STVB
+Falcon//24.530/FBOX
+Xilo/Force Independance/1.248/AGBN
+mickael/Orilla/81.983/ARHH
+Nilek/SAMOURAI/2.884/BRPV
+OrageWMigli/Want A New Team/2.864/QTQX
+Red Skull/Want A New Team/1.164/NUNF
+OrageWMigli/Want A New Team/2.946/SRJT
+Falcon//42.087/PAAW
+Horgh/Orilla/1.448.736/EIUW
+suffering/- Enjoy to Raid -/0/CBLE
+suffering/- Enjoy to Raid -/1/PONH
+OrageWMigli/Want A New Team/917/MJFH
+Falcon//110.276/EDFF
+DASSIUS/Forces Liberatrices Intergalactique/111.816/HEKU
+Falcon//58.535/DSWN
+Horgh/Orilla/90.893/FGUO
+Falcon//173.474/BLPE
+Horgh/Orilla/68.362/WTSI
+juju9302/akatsuki formation/7/ZITY
+Dark73//32.886/LIZU
+Falcon//215.434/KILK
+Dark73//69.656/ASOX
+Dark73//76.807/ZNMH
+juju9302/akatsuki formation/61/CQZT
+juju9302/akatsuki formation/9/EXHL
+Red Skull/Want A New Team/3.776/POVE
+miglimik/Alliance Fornoxienne/78.894/AUCK
+DASSIUS/Forces Liberatrices Intergalactique/1.120.531/PWJV
+Warclat//560.660/YMRP
+Horgh/Orilla/73.063/PYTZ
+Red Skull/Want A New Team/1.011/ISMH
+FedeElKuto/Ultime Ascension/1.261.020/VSRI
+AtaMystery/FaiRy Tail/10.608/SBGU
+Warclat//1.031.258/LQVT
+AtaMystery/FaiRy Tail/7.434/ZYSC
+SWAT Killer/Alliance des Anciens/66/WRWI
+Fantom/The RiiDeRs/5.688.434/EYBU
+Warclat//1.556.337/HGMT
+Darkpanzer/Les vieux inutiles (sale jeuno XD )/2.383/MDDI
+Alko Leek/Knight of Death/1.351/TROS
+-NINJA-/SAMOURAI/3.042/TNOL
+HulK/Want A New Team/5.866/ANFK
+Warclat//1.024.040/ABCW
+Freelancer/PSER/207.025/NGCP
+-Nott-//7.247/CCEJ
+-Nott-/-GhoSt RiDeRs-/43/VLRI
+Xilo/Force Independance/2.236/BFBC
+Warclat//3.199.299/AFHT
+lancien07/-SKULLS-/98.080/MPEA
+-Legion-/Alliance Fornoxienne/738.687/TALJ
+Red Skull/Want A New Team/2.113/RSCF
+AtaMystery/FaiRy Tail/5.818/BATF
+-alryc-/Wraiith Genesis/1.114/VTQS
+-alryc-/Wraiith Genesis/209/UHWP
+AtaMystery/FaiRy Tail/2.788/FVCK
+- SkyNeT -/Alliance Fornoxienne/131.922/GHXF
+Falcon//236.979/IICY
+DASSIUS/Forces Liberatrices Intergalactique/702.720/EFOO
+-NINJA-/SAMOURAI/1.633/CVTN
+-Nott-/-GhoSt RiDeRs-/17/FIJG
+SWAT Killer/Alliance des Anciens/282.081/VMCR
+SWAT Killer/Alliance des Anciens/311.176/YBXQ
+Red Skull/Want A New Team/469/FJNA
+AtaMystery/FaiRy Tail/1.323/JRBO
+Xilo/Force Independance/1.764/GHXE
+Falcon/Wing Lantienne/26.289/AIPX
+Red Skull/Want A New Team/363/PVCH
+Firehawk84/Les Archanges de la Destruction/289.181/UROA
+-alryc-/Wraiith Genesis/11.888/OGLF
+DASSIUS/Forces Liberatrices Intergalactique/250.557/QXEM
+Red Skull/Want A New Team/3.514/BQKG
+-NINJA-/SAMOURAI/369/MZAS
+commandeur/The North versus South/651/YHNE
+ATTM-Mythix//316.616/WFPB
+Alko Leek/Knight of Death/77/EIAR
+Alko Leek/Knight of Death/127/MRIF
+Alko Leek/Knight of Death/904/RQOA
+Alko Leek/Knight of Death/904/EUXN
+redemption/akatsuki formation/969/XCSG
+Red Skull/Want A New Team/6.977/TCLY
+DASSIUS/Forces Liberatrices Intergalactique/1.392.980/DXIL
+Mirvin/Shaytans/3.910.796/RJYL
+DASSIUS/Forces Liberatrices Intergalactique/1.101.042/TTLY
+DASSIUS/Forces Liberatrices Intergalactique/1.359.666/INTU
+iluvatar/Wing ulltime Ascension/545.151/PZQG
+redemption/akatsuki/87/UVHC
+Red Skull/Want A New Team/689/MICY
+Mirvin/Shaytans/474.536/UZAK
+Mirvin/Shaytans/597.839/MSUH
+Darkredos/The North versus South/3.311/KAQS
+Mirvin/Shaytans/665.607/WXVQ
+itachi77/CSNU/780/KZYJ
+Mirvin/Shaytans/345.527/UWWP
+DASSIUS/Forces Liberatrices Intergalactique/987.709/WGMH
+Dark angelis/Hell Inferno/777.122/OOXM
+snoopywar/CSNU/126/MLZP
+DASSIUS/Forces Liberatrices Intergalactique/1.021.579/ETIP
+MaNeTTe/akatsuki/282/FCFD
+arbiter73/Space Wolves DeStroyeR/81.582/YZZS
+barbariuss/La Releve/132.271/UCYK
+ATTM-Mythix//501.335/IPOT
+Zampakuto/Phenix Reborn/1.178.088/PGOF
+arbiter73/Space Wolves DeStroyeR/2.637.044/ZZAC
+Darkredos/The North versus South/3.221/KFNH
+-NINJA-/SAMOURAI/3.316/ZWZP
+-NINJA-/SAMOURAI/4.674/ICVC
+-NINJA-/SAMOURAI/2.974/RFCD
+Red Skull/Want A New Team/3.548/LBBM
+Red Skull/Want A New Team/2.294/OQUN
+Zampakuto/Phenix Reborn/1.178.088/IASY
+Seemann//5.493/SPCM
+OrageWMigli/Want A New Team/4.735/YGVO
+Eldinf//848.394/XZWZ
+iluvatar/Wing ulltime Ascension/1.812.633/MOJE
+OrageWMigli/Want A New Team/8.211/OTPF
+Percy14//1.762.848/BOUJ
+Zampakuto/Phenix Reborn/117.831/ZFXH
+OrageWMigli/Want A New Team/5.054/QKOK
+OrageWMigli/Want A New Team/5.464/ZFPF
+OrageWMigli/Want A New Team/6.103/GLIH
+SWAT Killer/Divinity Angels/3.813/XQXE
+SWAT Killer/Divinity Angels/602/FMUQ
+Scarfraise/-Vendetta-/9.028/RXVU
+-Nurzak-/-Vendetta-/1.618.436/RUKE
+SWAT Killer/Divinity Angels/613/FJBO
+SWAT Killer/Divinity Angels/621/IEGD
+SWAT Killer/Divinity Angels/669/HPLU
+SWAT Killer/Divinity Angels/673/AMMX
+SWAT Killer/Divinity Angels/747/LGIL
+Eldinf//336.651/VWMG
+-ElgEnErAl-/Knight of Death/7.112/VUWF
+redemption14/ELITE GALAXIE PEGASE/909.707/FXYM
+AKON/EXPEDITION GALAXIE PEGASE/811.817/GYCQ
+Taylou/Hegemonie /1.742/GUXV
+Taylou/Hegemonie /3.872/JCEQ
+B3njiman--/Les Loups de Fenris/4.500.174/NNZT
+AtaMystery/FaiRy Tail/2.272/WXQD
+B3njiman--/Les Loups de Fenris/4.500.174/TKYB
+B3njiman--/Les Loups de Fenris/4.500.174/ARKO
+redemption14/EXPEDITION GALAXIE PEGASE/133.178/GGDL
+BlueAngel/Orilla/581.501/ZYDS
+BlueAngel/Orilla/646.112/NJEP
+BlueAngel/Orilla/637.825/LCCU
+BlueAngel/Orilla/630.789/SYHW
+BlueAngel/Orilla/603.754/CWUS
+BlueAngel/Orilla/650.196/ZEPZ
+BlueAngel/Orilla/639.086/QLPG
+BlueAngel/Orilla/632.465/NBIA
+BlueAngel/Orilla/605.598/KRZT
+Xilo/Hegemonie /2.171/EJVO
+BlueAngel/Orilla/611.338/JCNC
+BlueAngel/Orilla/612.042/KVNF
+Xilo/Hegemonie /3.076/VZKC
+BlueAngel/Orilla/612.663/GEUS
+BlueAngel/Orilla/613.105/JCZK
+BlueAngel/Orilla/647.421/YKLX
+BlueAngel/Orilla/645.021/BKWU
+-Apocaplpse-/-Trix-/69.833/IDOD
+//0/SJKS
+Xilo/Hegemonie /2.058/AQZO
+-ElgEnErAl-/Knight of Death/8.153/QXWB
+DASSIUS/Forces Liberatrices Intergalactique/499.123/WRPU
+DASSIUS/Forces Liberatrices Intergalactique/284.064/SSJR
+Jared/Wing-Hegemonie/679/YQQO
+Jared/Hegemonie /359/FKEI
+OrageWMigli/Want A New Team/7.182/KPMW
+Darkredos/The North versus South/1.820/PKRU
+Seemann/Les Eleves Des Anciens/9.414/HOYE
+Eldinf/Les Ainur/154.606/BAXI
+DASSIUS/Forces Liberatrices Intergalactique/341.279/JLKE
+Eldinf/Les Ainur/193.995/EZWP
+DASSIUS/Forces Liberatrices Intergalactique/540.342/IFOJ
+Taylou/Hegemonie /3.013/BLET
+OrageWMigli/Want A New Team/2.763/AOKC
+DASSIUS/Forces Liberatrices Intergalactique/327.690/RTPX
+Nick-Fury/S-H-I-E-L-D/956/NTFA
+DASSIUS/Forces Liberatrices Intergalactique/3.697.733/NSZW
+Zampakuto/Phenix Reborn/153.499/MAWA
+itachi77/CSNU/3.009/AIBK
+itachi77/CSNU/3.759/UHXU
+Nick-Fury/S-H-I-E-L-D/150/KAJO
+RENAISSANCE//225.159/BVWM
+BadScyller//76.782/JCFZ
+Xilo//431/EFCS
+Xilo//2.070/NITZ
+Taylou/Hegemonie /4.983/MYXE
+DASSIUS/Forces Liberatrices Intergalactique/248.946/UUBM
+Nick-Fury/S-H-I-E-L-D/268/EWFI
+Nick-Fury/S-H-I-E-L-D/339/EHPT
+OrageWMigli/Want A New Team/8.951/ZKHC
+Nick-Fury/S-H-I-E-L-D/655/SOAW
+OrageWMigli/Want A New Team/5.309/FODP
+DASSIUS/Forces Liberatrices Intergalactique/1.403.133/HLMN
+Xilo//1.418/OCWE
+OrageWMigli/Want A New Team/7.703/QBVK
+DASSIUS/Forces Liberatrices Intergalactique/983.098/CCVA
+miglimik/Alliance Fornoxienne/194.861/FTDH
+DASSIUS/Forces Liberatrices Intergalactique/1.104.034/AKVQ
+DASSIUS/Forces Liberatrices Intergalactique/1.119.382/MHET
+DASSIUS/Forces Liberatrices Intergalactique/1.561.903/XRJC
+Nick-Fury/S-H-I-E-L-D/488/DYDW
+Mirvin/Warriors of Darkness/647.192/EQXN
+Eldinf/Les Ainur/431.442/EEBO
+BadScyller//537.716/ORPZ
+itachi77/CSNU/3.196/FSXS
+Scarfraise/-Vendetta-/13.120/FDVR
+Mirvin/Warriors of Darkness/294.670/QNMR
+miglimik/Alliance Fornoxienne/546.400/JAKO
+Taylou/Hegemonie /4.270/LRCB
+Mirvin/Warriors of Darkness/836.088/JGAO
+miglimik/Alliance Fornoxienne/247.246/OWXF
+miglimik/Alliance Fornoxienne/257.064/QOUG
+miglimik/Alliance Fornoxienne/580.668/WJZC
+Mirvin/Warriors of Darkness/913.876/UEDR
+Mirvin/Warriors of Darkness/592.350/MGKV
+Mirvin/Warriors of Darkness/278.226/VRGM
+the doctor/Little FaiRy/3.381/SFJR
+Mirvin/Warriors of Darkness/1.638.777/QLYC
+Mirvin/Warriors of Darkness/888.750/NMGI
+Draken/FaiRy Tail/7.223/MNUO
+AtaMystery/FaiRy Tail/4.274/IZZJ
+Darkredos/The North versus South/2.978/GDCO
+Nick-Fury/S-H-I-E-L-D/2.965/ZZTS
+commandeur//218/NYEE
+AtaMystery/FaiRy Tail/7.683/QHXV
+AtaMystery/FaiRy Tail/19.842/EIGH
+the doctor/FaiRy Tail/2.831/PUMN
+the doctor/FaiRy Tail/3.377/XRVI
+-Dark Angel-/Hell Inferno/691.150/HXYX
+GreenLantern/La Ligue des justiciers/3.674/MVGA
+Flash/La Ligue des justiciers/195/XMZM
+Escaflowne/Ultime Ascension/1.252.723/FQAN
+Mirvin/Warriors of Darkness/2.121.527/OUVH
+Mirvin/Warriors of Darkness/244.749/OGBF
+//0/XCEQ
+itsoumi/univers pegase/8/LZNJ
+Nick-Fury/S-H-I-E-L-D/1.052/IAPQ
+-Benjilek-/Les Loups de Fenris/409.732/FRYQ
+barbariuss/Nouvelles Forces Libres/3.042/PIYD
+itsoumi/univers pegase/7.478/CWOE
+Mirvin/Warriors of Darkness/395.483/STRS
+Mirvin/Warriors of Darkness/627.266/SSRY
+barbariuss/Nouvelles Forces Libres/3.658/MHNY
+Flash/Justice League/1.415/DPZL
+barbariuss/Nouvelles Forces Libres/1.385/IKKL
+Flash/Justice League/1.620/QRDB
+barbariuss/Nouvelles Forces Libres/1.424/CYTP
+Seemann/Les Eleves Des Anciens/791.549/ADEH
+Flash/Justice League/1.620/OAPM
+Mirvin/Warriors of Darkness/624.331/RVOF
+AtaMystery/FaiRy Tail/15.608/ULFQ
+Mirvin/Warriors of Darkness/442.595/PJQE
+Seemann//68/GZFC
+//0/SHMU
+barbariuss/Nouvelles Forces Libres/1.873/WRXE
+barbariuss/Nouvelles Forces Libres/1.262/UCYS
+Anorn/Just For Raids/45.729/TRML
+miglimik/Alliance Fornoxienne/136.869/OXWU
+eMzaa/la cinquieme race/2.183/LDJB
+Seemann//267/HWOD
+Seemann//171/TMMA
+Seemann//433/YKGY
+THIAM/OSEF/314.059/ZDSV
+monoi56/A4Rw2/64.140/CRIT
+THIAM/OSEF/851.027/ZGPL
+THIAM/OSEF/2.323.689/WJTQ
+THIAM/OSEF/3.326.501/KCLX
+THIAM/OSEF/6.968.892/HCQY
+-V-icious/-Vendetta-/56.199/BMID
+//0/LHDR
+Eldinf/Les Ainur/184.693/IRST
+Nick-Fury/Pavillon Noir/1.185/RFQW
+SESSID//169.975/SKEY
+See2712/StargateSG1Atlantis/52/ZSKS
+See2712/StargateSG1Atlantis/52/XOHV
+Nick-Fury/Pavillon Noir/2.605/PNYM
+ANGEFEL1NE/Phenix Reborn/40.648/IIPB
+Lifaen/Les Dix d Ys/6.886/HEVB
+//0/UIEX
+Nick-Fury/Pavillon Noir/779/TODF
+SuperSpike/Guerriers Legendaires/0/IJSQ
+Nick-Fury/Pavillon Noir/547/FROZ
+Nick-Fury/Pavillon Noir/906/BKRS
+OrageWMigli/Want A New Team/2.354/KITE
+Nick-Fury/Pavillon Noir/676/WCCR
+commandeur/ElEcTrO InOx/512/MQHD
+BadScyller//714.580/XYUN
+ronon64/Guerriers Legendaires/270/QBGA
+BioxAn/KulT/860/MSVI
+Nick-Fury/United Federation Of Planets/2.456/PWMR
+-final-/Ultime Ascension/4.066.549/UYRR
+AtaMystery/FaiRy Tail/4.079/OWOZ
+AtaMystery/FaiRy Tail/4.079/ZQVL
+commandeur/ElEcTrO InOx/16.511/GXBO
+ronon64/Guerriers Legendaires/39/NBYA
+DASSIUS/La guilde des scientifiques/2.843.765/QTMQ
+-final-/Ultime Ascension/3.015.372/IDJL
+-final-/Ultime Ascension/3.015.372/LBTB
+Nick-Fury/United Federation Of Planets/3.429/TMDY
+DASSIUS/La guilde des scientifiques/1.147.427/PMOO
+Lifaen/Les Dix d Ys/9.485/EIDN
+--Starman--/RaPeToU/33.591/OHXB
+Starman/HeReTiC/59.787/ZBSA
+rexus/Les Anciens Pacifistes/991.819/SCVU
+DASSIUS/La guilde des scientifiques/5.686.791/LQUR
+Starman/HeReTiC/391.003/IIHB
+Nick-Fury/United Federation Of Planets/14.952/BXUT
+ASJB001/Miami Heat/485.590/YEMG
+Nick-Fury/United Federation Of Planets/1.916/AKMF
+arbiter73/Space Wolves DeStroyeR/1.896.208/JIPW
+Fantom/The RiiDeRs/208.486/XHLH
+Fantom/The RiiDeRs/3.850.364/ETIQ
+DASSIUS/La guilde des scientifiques/2.513.947/QQWV
+BadScyller//1.173.416/CPSB
+seya/EXPEDITION GALAXIE PEGASE/465.768/YIVD
+Waluigi/Want A New Team/7.678/THKT
+BadScyller//819.477/NRVX
+BadScyller//1.446.933/VTNX
+BadScyller//996.518/BILB
+-Aurel-//92.271/TSGY
+BadScyller//1.362.247/LJTS
+BadScyller//1.606.014/HICK
+Nick-Fury/United Federation Of Planets/2.495/RWSN
+Mirvin/Warriors of Darkness/1.599.762/TRMY
+Nick-Fury//7.213/WNAO
+QuillOfSin/Alliance Fornoxienne/279.737/DUZH
+Nick-Fury//1.608/VOHV
+Nick-Fury//1.018/EHVK
+BadScyller//266.343/ZWMZ
+Nick-Fury/Want A New Team/927/QDOQ
+xyroN/The RiiDeRs/39.062/KXTP
+Nick-Fury/Want A New Team/9.846/EQDB
+//0/GEUN
+Nick-Fury/Les biffleurs/19.300/MTGL
+Mirvin/Warriors of Darkness/404.119/OSWH
+Nick-Fury/Les biffleurs/16.889/PFQJ
+Nick-Fury/Les biffleurs/11.563/TNDN
+AzaRiuuM/MB wing1/8.621/MWRY
+AzaRiuuM/MB wing1/8.658/PYWD
+AzaRiuuM/MB wing1/9.871/WLAH
+ASJB001/Miami Heat/28.148/BJXP
+ASJB001/Miami Heat/161.770/DHYN
+-Dark Angel-/The RiiDeRs/230.967/DTEP
+Nick-Fury/Les biffleurs/6.504/ZZSK
+AtaMystery/FaiRy Tail/16.576/JEFP
+AzaRiuuM/MB wing1/565/NVRV
+commandeur/Les biffleurs/1.333/KJSA
+Darkredos/Les biffleurs/2.030/XHTU
+Mirvin/Warriors of Darkness/234.872/FRSK
+commandeur/Les biffleurs/19.409/NLKU
+Nick-Fury/Les biffleurs/6.550/MDTF
+Nick-Fury/Les biffleurs/527/FUAI
+commandeur/Les biffleurs/21.044/HDND
+-Dark Angel-/The RiiDeRs/251.099/PQOC
+Nick-Fury/Les biffleurs/12.269/EDOW
+KuuDi/MB wing1/2.722/EYZN
+Nick-Fury/Les biffleurs/12.755/MMKN
+Mirvin/Warriors of Darkness/422.766/FVUL
+-Nurzak-/-Vendetta-/478.815/YLYA
+KuuDi/MB wing1/2.102/ZWJJ
+Nick-Fury/Les biffleurs/9.255/PRQJ
+KuuDi/MB wing1/2.072/MGFS
+KuuDi/MB wing1/2.305/AJRW
+Nick-Fury/Les biffleurs/10.609/VNJX
+Nick-Fury/Les biffleurs/1.306/ATZS
+Odin/OSEF/2.498.201/YTMR
+commandeur/Les biffleurs/9.994/AVZS
+Nick-Fury/Les biffleurs/656/WPST
+commandeur/Les biffleurs/11.570/XFUS
+//0/SOFB
+KuuDi/MB wing1/8.972/MRKA
+Nick-Fury/Les biffleurs/16.318/VVZS
+belley/mario bros/5.999/MMMW
+KuuDi/MB wing1/3.135/MBUQ
+KuuDi/MB wing1/3.135/ZLXX
+Nick-Fury/Les biffleurs/12.040/QBNC
+Mirvin/Warriors of Darkness/2.060.741/IJRW
+Mirvin/Warriors of Darkness/153.012/FYCD
+KuuDi/MB wing1/7.959/SHPL
+KuuDi/MB wing1/7.575/CDCB
+KuuDi/MB wing1/7.858/QKCN
+Wellan/les illuminatis/1.871/XLMO
+Wellan/les illuminatis/80/BWTV
+Wellan/les illuminatis/1.871/IUSK
+commandeur/Les biffleurs/11.627/ZQKO
+Nick-Fury/Les biffleurs/4.609/GDVV
+commandeur/Les biffleurs/4.560/RHNB
+Mirvin/Warriors of Darkness/210.084/ZGOB
+Nick-Fury/Les biffleurs/3.561/NQUX
+BadScyller//4.695.978/PBAD
+HulK/MB wing1/3.690/BVDQ
+commandeur/Les biffleurs/4.976/PCMK
+commandeur/Les biffleurs/11.540/RZPL
+Nick-Fury/Les biffleurs/17.863/UGBR
+-Benjilek-/Les Loups de Fenris/367.724/EUQJ
+-Benjilek-/Les Loups de Fenris/383.022/FMET
+HulK/MB wing1/15.886/IBGH
+HulK/MB wing1/10.389/AFBM
+HulK/MB wing1/12.526/EOJC
+AtaMystery/FaiRy Tail/60.109/WPHG
+HulK/MB wing1/3.536/JVYX
+Seemann/Rise Of Gods/72.238/BCHP
+commandeur/Les biffleurs/2.616/KNRO
+Nick-Fury/Les biffleurs/3.478/OMOJ
+Nick-Fury/Les biffleurs/984/PZFV
+oligan/Dark Project/230.240/BIBI
+Mirvin/Warriors of Darkness/1.095.428/LXTK
+Seemann/Rise Of Gods/143.196/MTAI
+Seemann/Les Derniers Olympiens/156.863/SCNE
+Eikoz/la Cosa Nostra/1.530/WLCD
+Eikoz/la Cosa Nostra/1.321/LWYN
+Eikoz/la Cosa Nostra/1.693/LASE
+Eikoz/la Cosa Nostra/396/KNAF
+Eikoz/la Cosa Nostra/396/OJQB
+Nick-Fury/Les biffleurs/10.951/LZYH
+Taylou//8.673/OTWW
+Mirvin/Warriors of Darkness/583.434/AIAK
+Mirvin/Warriors of Darkness/403.406/BWNO
+Taylou//8.673/KUAD
+iceman91/Little FaiRy/1.232/VGPZ
+- Spy -/HeReTiC/9.083.365/OWVN
+Nick-Fury/Les biffleurs/12.296/JJRH
+Nick-Fury/Les biffleurs/18.084/DZPE
+kobold/Little FaiRy/4.682/GBZA
+kobold/Little FaiRy/4.225/NOFF
+iceman91/Little FaiRy/2.795/RICA
+Seemann/Les Derniers Olympiens/571.941/SNSK
+HulK/MB wing1/17.347/EIHK
+HulK/MB wing1/17.347/NATZ
+slipman//729.314/NYNE
+Seemann/Les Derniers Olympiens/623.119/GYHD
+Seemann/Les Derniers Olympiens/361.197/MLKS
+Seemann/Les Derniers Olympiens/398.068/IHMI
+Seemann/Les Derniers Olympiens/428.793/HFOD
+Seemann/Les Derniers Olympiens/474.433/BEGS
+Seemann/Les Derniers Olympiens/478.363/FCOA
+Seemann/Les Derniers Olympiens/527.051/LXTO
+slipman//1.219.982/UMQY
+adieu eridan//3.845/YFIN
+Jekill//308.540/UJDF
+Jekill//322.631/EJDS
+Jekill//291.055/FLBL
+Jekill//303.750/KZVV
+Nick-Fury/Les biffleurs/1.506/DNIO
+splyte//60.640/IOVU
+iceman91/Little FaiRy/670/XPBR
+Seemann/Les Derniers Olympiens/525.149/SBEC
+Seemann/Les Derniers Olympiens/1.361.952/HKPF
+terinam//482/YMMD
+Seemann/Les Derniers Olympiens/1.279.805/QRYQ
+Seemann/Les Derniers Olympiens/1.304.284/QBMU
+Seemann/Les Derniers Olympiens/1.421.094/EZFH
+Seemann/Les Derniers Olympiens/2.049.581/QERC
+Seemann/Les Derniers Olympiens/1.466.083/XOYI
+Seemann/Les Derniers Olympiens/1.613.348/AEMW
+Seemann/Les Derniers Olympiens/1.649.387/QFMS
+Nick-Fury/Les biffleurs/6.936/PXAP
+Seemann/Les Derniers Olympiens/1.651.363/HDGF
+terinam//774/UYOD
+-Dark Angel-/The RiiDeRs/1.533.067/YMRJ
+-Dark Angel-/The RiiDeRs/1.533.067/MWXF
+-Dark Angel-/The RiiDeRs/1.538.633/IAJE
+Seemann/Les Derniers Olympiens/51.527/AHCY
+Seemann/Les Derniers Olympiens/61.078/OMYO
+Seemann/Les Derniers Olympiens/537.685/KPKK
+-Benjilek-/Les Loups de Fenris/2.214.568/PAUM
+Seemann/Les Derniers Olympiens/643.018/UUHG
+Seemann/Les Derniers Olympiens/698.597/JYVW
+Seemann/Les Derniers Olympiens/698.597/WLJD
+Seemann/Les Derniers Olympiens/925.552/VMAR
+Seemann/Les Derniers Olympiens/1.023.268/MYSP
+-Dark Angel-/The RiiDeRs/3.629.629/GZYD
+terinam//272/TQCE
+-Benjilek-/Les Loups de Fenris/1.402.537/XHVY
+Seemann/Les Derniers Olympiens/1.223.625/UDTU
+-Dark Angel-/The RiiDeRs/2.105.369/RFWH
+-Dark Angel-/The RiiDeRs/1.223.287/OOND
+Darkredos/Les Peres Fouettards/7.839/HTVN
+-Dark Angel-/The RiiDeRs/1.190.109/HHPJ
+commandeur/Les Peres Fouettards/16.119/KSZP
+commandeur/Les Peres Fouettards/19.442/YZNG
+-Dark Angel-/The RiiDeRs/1.297.098/CEUF
+-Dark Angel-/The RiiDeRs/1.527.792/LGZD
+Nick-Fury/Les Peres Fouettards/16.802/JKEQ
+Nick-Fury/Les biffleurs/6.796/KJIT
+Mirvin/Warriors of Darkness/2.667.279/CQYW
+splyte/Academie Stellaire Republicaine/9.094/ESZK
+commandeur/Les Peres Fouettards/1.907/EWAE
+Grepsd/Universite LGDS/44.344/VFPI
+-Dark Angel-/The RiiDeRs/1.816.189/QLPZ
+commandeur/Les Peres Fouettards/7.142/KJOQ
+Nick-Fury/Les biffleurs/24.739/QLEI
+Nick-Fury/Les Peres Fouettards/20.966/LOXK
+freelancer/COOLassassin/1.104.306/HUOP
+arbiter73/Space Wolves DeStroyeR/531.364/HCYO
+Nick-Fury/Les Peres Fouettards/15.460/JFEY
+-Dark Angel-/The RiiDeRs/2.890.632/XQZH
+-Dark Angel-/The RiiDeRs/880.287/HHDG
+-Dark Angel-/The RiiDeRs/2.589.165/ZGTO
+Fantom/The RiiDeRs/897.585/ZQMU
+Fantom/The RiiDeRs/1.272.170/CRWN
+Fantom/The RiiDeRs/2.040.648/EGDY
+rapete//43.081/JAAU
+-Dark Angel-/The RiiDeRs/2.589.165/GYKB
+suffering//7.894/AGEM
+splyte/Academie Stellaire Republicaine/122.503/EGFL
+Nick-Fury/Les Peres Fouettards/14.290/ZWVI
+Nick-Fury/Les Peres Fouettards/862/KSAS
+splyte/Academie Stellaire Republicaine/10.190/RFCR
+ANGEFEL1NE/Phenix Reborn/336.748/UQTG
+splyte/Academie Stellaire Republicaine/14.380/ZPIA
+splyte/Academie Stellaire Republicaine/17.017/RDRQ
+Col sheparde [Republique Galactique/Renaissance/70.485/VXCH
+Nick-Fury/Les Peres Fouettards/1.169/SCPH
+Nick-Fury/Les Peres Fouettards/22.534/JHLL
+Mirvin/Warriors of Darkness/3.678.432/PMCS
+BadScyller//175.498/KEQK
+Nick-Fury/Les Peres Fouettards/17.776/AKEB
+BadScyller//170.392/RDPH
+Alekto971/Les Loups de Fenris/580.020/MBYP
+rapete//162.196/FZAF
+splyte/Academie Stellaire Republicaine/212.244/PQQW
+splyte/Academie Stellaire Republicaine/216.272/BZFK
+splyte/Academie Stellaire Republicaine/216.272/PDXQ
+John Preston/Alliance Covenante/153.539/RRDK
+Mirvin/Warriors of Darkness/1.303.143/VPRP
+flash44//1.943.792/SKTR
+Mirvin/Warriors of Darkness/219.209/TGLD
+Mirvin/Warriors of Darkness/150.357/LVTX
+Mirvin/Warriors of Darkness/3.848.811/VBTS
+Mirvin/Warriors of Darkness/4.237.487/TXCA
+Seemann/Les Derniers Olympiens/328.369/ETGW
+Seemann/Les Derniers Olympiens/351.634/OSSY
+Seemann/Les Derniers Olympiens/372.344/DLID
+Seemann/Les Derniers Olympiens/465.535/KSIW
+Seemann/Les Derniers Olympiens/477.551/SWBS
+Seemann/Les Derniers Olympiens/499.215/ADWF
+Seemann/Les Derniers Olympiens/536.705/DDTM
+Seemann/Les Derniers Olympiens/552.578/IBLN
+Seemann/Les Derniers Olympiens/574.463/NUBR
+Seemann/Les Derniers Olympiens/541.541/FFSP
+Seemann/Les Derniers Olympiens/605.390/KWWG
+Seemann/Les Derniers Olympiens/618.284/FCEP
+Seemann/Les Derniers Olympiens/622.415/GHQE
+Seemann/Les Derniers Olympiens/654.525/AZSE
+rapete//102.150/NCFB
+Seemann/Les Derniers Olympiens/690.350/BRIE
+Seemann/Les Derniers Olympiens/713.634/SETU
+Seemann/Les Derniers Olympiens/739.171/QZYX
+Seemann/Les Derniers Olympiens/828.315/KCIC
+Seemann/Les Derniers Olympiens/642.816/LJGA
+Seemann/Les Derniers Olympiens/624.712/WMJJ
+Seemann/Les Derniers Olympiens/688.823/PYLV
+Seemann/Les Derniers Olympiens/671.709/HXGI
+Seemann/Les Derniers Olympiens/710.636/CNNG
+Seemann/Les Derniers Olympiens/735.418/SVZM
+Seemann/Les Derniers Olympiens/797.465/IOBB
+Seemann/Les Derniers Olympiens/556.900/PCFK
+Seemann/Les Derniers Olympiens/698.597/JOXG
+Seemann/Les Derniers Olympiens/708.542/ETEZ
+-Benjilek-/Les Loups de Fenris/3.447.370/VDTQ
+John Preston/Alliance Covenante/149.433/HIEC
+Mythix//835.772/VEFH
+Seemann/Les Derniers Olympiens/111.716/JYEF
+appleseed/PSER/4.112.062/EHBT
+Nick-Fury/Les Peres Fouettards/18.230/JZDL
+Nick-Fury/Les Peres Fouettards/24.747/VGIB
+Fantom/The RiiDeRs/16.268.280/VNHK
+Mirvin/Warriors of Darkness/2.384.597/XSXE
+Col sheparde [Republique Galactique/Renaissance/173.924/XXUY
+Nick-Fury/Les Peres Fouettards/17.181/UKIC
+Mirvin/Warriors of Darkness/574.269/BVSV
+commandeur/Les Peres Fouettards/2.059/VMCS
+-Dark Angel-/The RiiDeRs/2.156.446/IUHS
+nicoatlantis//37.456/PJMC
+Fantom/The RiiDeRs/4.905.307/UXML
+Fantom/The RiiDeRs/2.496.547/QWHO
+loulou45/Othalla/2.932.287/RSYO
+Waluigi/Want A New Team/14.887/MPPR
+Fantom/The RiiDeRs/1.364.850/JHIM
+-Dark Angel-/The RiiDeRs/2.921.387/QFIM
+rapete//116.636/JZWV
+rapete//109.219/DRUO
+-Dark Angel-/The RiiDeRs/2.718.768/YCCQ
+//0/HWMZ
+sauvage/PSER/684.178/YUJP
+Spynet001/Miami Heat/226.908/ISGN
+Armitage/Want A New Team/3.845/IBGQ
+Nick-Fury/Les Peres Fouettards/6.538/FRKZ
+-Deloth-/Nirnaeth Arnoediad/150.068/FGYE
+Armadillo/Warriors of Darkness/336.580/BWOG
+commandeur/Les Peres Fouettards/1.592/KIOS
+Mirvin/Warriors of Darkness/136.142/GPIE
+flash44/ The Riders Of Apocalypse /512.108/QNKV
+commandeur/Les Peres Fouettards/2.613/BCAG
+HulK/MB Wing/6.204/YHTS
+commandeur/Les Peres Fouettards/1.984/VVMQ
+freelancer/COOLassassin/689.124/UEQY
+Mirvin/Warriors of Darkness/1.929.829/XSCY
+Mirvin/Warriors of Darkness/914.219/OYYO
+freelancer/COOLassassin/302.479/NYDU
+Mirvin/Warriors of Darkness/923.100/SFLE
+Seemann/Les Derniers Olympiens/102.360/RIYD
+Seemann/Les Derniers Olympiens/115.336/AUJP
+Seemann/Les Derniers Olympiens/117.626/OBHY
+Seemann/Les Derniers Olympiens/121.425/EJUO
+Seemann/Les Derniers Olympiens/152.092/JOUY
+Seemann/Les Derniers Olympiens/156.021/PGVK
+-Dark Angel-/The RiiDeRs/296.585/OHYN
+Seemann/Les Derniers Olympiens/546.913/IJIM
+Seemann/Les Derniers Olympiens/619.067/LVQH
+Seemann/Les Derniers Olympiens/406.941/FBXA
+Seemann/Les Derniers Olympiens/427.047/OINB
+Seemann/Les Derniers Olympiens/684.068/KQIW
+Seemann/Les Derniers Olympiens/718.231/NWMJ
+Armitage/Want A New Team/8.957/TPPP
+Fantom/The RiiDeRs/1.535.327/MRWW
+-Nurzak-/-Vendetta-/69.095/MXPY
+-Nurzak-/-Vendetta-/69.095/VDSO
+commandeur/Les Peres Fouettards/1.951/NHAN
+-Dark Angel-/The RiiDeRs/160.016/ZNPL
+-Dark Angel-/The RiiDeRs/164.536/AQHE
+Armitage/Want A New Team/14.214/CRKE
+Inferno/Want A New Team/14.165/ZDIX
+Armadillo/Warriors of Darkness/2.734.233/RKXO
+HopeandGlory/-memories-/6.667.920/UDNX
+- TeNebRe -/Alliance Fornoxienne/563.522/NNFR
+Spectre//4.889/MWSS
+commandeur/Les Peres Fouettards/4.744/MQHN
+Shanks/Alliance Terrienne/49.745/GKDJ
+- TeNebRe -/Alliance Fornoxienne/624.461/AUMC
+Nick-Fury/Les Peres Fouettards/480/RDKJ
+commandeur/Les Peres Fouettards/4.677/XNVO
+Mirvin/Warriors of Darkness/332.503/XSUU

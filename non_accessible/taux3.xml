@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Derniere MAJ : 29/06/10  -->
+<Elements>
+	<Categorie nom="Ressources">
+		<Element nom="Fer" fer="1" />
+		<Element nom="Or" fer="1.25" />
+		<Element nom="Cristal" fer="2.5" />
+		<Element nom="Hydrogène" fer="5" />
+	</Categorie>
+	<Categorie nom="Militaires">
+		<Element nom="Soldat" fer="20" />
+		<Element nom="Colonel" fer="300" />
+		<Element nom="Technicien" fer="10" />
+		<Element nom="Expert" fer="100" />
+		<Element nom="Espion" fer="100" />
+		<Element nom="Kamikaze" fer="100" />
+	</Categorie>
+	<Categorie nom="Appareils spécialisés">
+		<Element nom="Petit remorqueur" fer="2000" or="1500" cristal="1000" hydrogene="500" />
+		<Element nom="Grand remorqueur" fer="10000" or="7500" cristal="5000" hydrogene="2500" />
+		<Element nom="Bombe Nucléaire" fer="2000" or="750" cristal="0" hydrogene="175" />
+		<Element nom="Bombe Plasma" fer="5500" or="3000" cristal="0" hydrogene="2000" />
+		<Element nom="Bombe Electromagnétique" fer="11500" or="7000" cristal="500" hydrogene="3500" />
+		<Element nom="IPER" fer="500" or="300" cristal="1200" hydrogene="150" />
+		<Element nom="Sonde Spatiale" fer="1100" or="500" cristal="1500" hydrogene="1000" />
+		<Element nom="Petit vaisseau ruine" fer="5000" or="5000" cristal="20000" hydrogene="0" />
+		<Element nom="Vaisseau Ruines : RC-1" fer="10000" or="10000"  cristal="20000" hydrogene="30000" />
+		<Element nom="Vaisseau Ruines : RC-2" fer="30000" or="30000" cristal="30000" hydrogene="50000" />
+	</Categorie>
+	<Categorie nom="Coques">
+		<Element nom="Coque Simple" fer="350" or="250" cristal="50" hydrogene="0" />
+		<Element nom="Coque Blindée" fer="750" or="525" cristal="75" hydrogene="0" />
+		<Element nom="Coque Organique" fer="1500" or="550" cristal="50" hydrogene="0" />
+		<Element nom="Coque des Croisés" fer="1750" or="750" cristal="125" hydrogene="0" />
+		<Element nom="Coque des Grands Sages" fer="1500 000" or="1100000" cristal="800000" hydrogene="0" />
+	</Categorie>
+	<Categorie nom="Armes">
+		<Element nom="Missiles" fer="200" or="50" cristal="0" hydrogene="0" />
+		<Element nom="Missiles Enrichis" fer="250" or="750" cristal="30" hydrogene="65" />
+		<Element nom="Canon Laser" fer="350" or="100" cristal="75" hydrogene="90" />
+		<Element nom="Batterie Laser Renforcée" fer="500" or="155" cristal="100" hydrogene="100" />
+		<Element nom="Canon à Ions" fer="700" or="180" cristal="50" hydrogene="45" />
+		<Element nom="Batterie Electromagnétique" fer="800" or="200" cristal="90" hydrogene="125" />
+		<Element nom="Canon à Plasma" fer="1450" or="525" cristal="250" hydrogene="200" />
+		<Element nom="Lanceur de Plasma Avancé" fer="3000" or="980" cristal="450" hydrogene="400" />
+		<Element nom="Missiles Nucléaire" fer="4500" or="1500" cristal="710" hydrogene="500" />
+		<Element nom="Rayon Electromagnétique" fer="8500" or="2000" cristal="800" hydrogene="700" />
+		<Element nom="Bombes à Impulsion" fer="9000" or="3000" cristal="1500" hydrogene="850" />
+		<Element nom="Lanceur de Drones" fer="1000 000" or="1100000" cristal="750000" hydrogene="350000" />
+	</Categorie>
+	<Categorie nom="Bouclier">
+		<Element nom="Petit Bouclier" fer="450" or="300" cristal="50" hydrogene="0" />
+		<Element nom="Champs de Force" fer="750" or="500" cristal="75" hydrogene="0" />
+		<Element nom="Bouclier Déflecteur" fer="1250" or="600" cristal="50" hydrogene="0" />
+		<Element nom="Bouclier des Croisés" fer="1750" or="750" cristal="100" hydrogene="0" />
+		<Element nom="Bouclier des Grands Sages" fer="125000" or="800000" cristal="600000" hydrogene="0" />
+	</Categorie>
+	<Categorie nom="Réacteurs">
+		<Element nom="Réacteur à Comb. Primitive" fer="450" or="250" cristal="50" hydrogene="0" />
+		<Element nom="Réacteur à Comb. Améliorée" fer="750" or="600" cristal="70" hydrogene="30" />
+		<Element nom="Réacteur Ionique" fer="1250" or="750" cristal="120" hydrogene="0" />
+		<Element nom="Réacteur à Fusion" fer="2500" or="1990" cristal="275" hydrogene="45" />
+		<Element nom="Réacteur Antimatière" fer="4000" or="2000" cristal="500" hydrogene="200" />
+		<Element nom="Réacteur Antigravité" fer="5000" or="3650" cristal="800" hydrogene="350" />
+		<Element nom="Réacteur Hyperpropulseur" fer="5780" or="3700" cristal="1000" hydrogene="350" />
+		<Element nom="Réacteur Stardrive" fer="6500" or="4000" cristal="1450" hydrogene="350" />
+	</Categorie>
+	<Categorie nom="Occulteurs">
+		<Element nom="Occulteur des Croiséss" fer="50000" or="45000" cristal="1250" hydrogene="5000" />
+		<Element nom="Occulteur des Grands Sages" fer="75000" or="25000" cristal="2000" hydrogene="8000" />
+	</Categorie>
+	<Categorie nom="Transporteurs">
+		<Element nom="Arche de Sauvetage" fer="500" or="500" cristal="250" hydrogene="1000" />
+		<Element nom="Téléporteurs" fer="10000" or="10000" cristal="25000" hydrogene="40000" />
+	</Categorie>
+	<Categorie nom="Unités d'assauts">
+		<Element nom="Marines" fer="1500" or="500" soldats="4" />
+		<Element nom="Unité d'Elite" fer="3200" or="1000" hydrogene="50" soldats="8" />
+		<Element nom="BioSoldat" fer="6000" or="2400" cristal="1500" hydrogene="200" soldats="16" />
+		<Element nom="Agent Secret" fer="10000" or="4400" cristal="2000" hydrogene="300" soldats="24" />
+		<Element nom="Soldat Droïdet" fer="30000" or="20000" cristal="6000" hydrogene="1000" soldats="48" />
+		<Element nom="Androïde de Combat" fer="100000" or="100000" cristal="40000" hydrogene="5000" soldats="96" />
+		<Element nom="NanoSoldat" fer="500000" or="300000" cristal="100000" hydrogene="50000" soldats="384" />
+	</Categorie>
+	<Categorie nom="Objets rares">
+		<Element nom="Cellule Energétique" fer="10000000" />
+		<Element nom="Heavy F-GSC"  fer="250000" />
+		<Element nom="Chasseur des Sages"  fer="250000" />
+		<Element nom="Chasseur des Sages"  fer="250000" />
+		<Element nom="Elément de l'Arche Quantique" fer="100000" or="50000" cristal="35000" hydrogene="20000" />
+	</Categorie>
+</Elements>

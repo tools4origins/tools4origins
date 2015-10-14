@@ -1,0 +1,3 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule sign/(.+)/(.+)/([0-1]).png$  /sign.php?univers=$1&joueur=$2&couleur=$3 [L]
